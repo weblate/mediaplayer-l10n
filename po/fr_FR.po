@@ -1,0 +1,433 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mediaplayer 20091130134223\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.30 13:42+0200\n"
+"PO-Revision-Date: 2009.11.30 13:42+0200\n"
+"Last-Translator:\n"
+"Language-Team: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "mp_ap_name"
+msgstr "Lect. média"
+
+msgid "mp_bd_label_clip%d"
+msgid_plural "mp_bd_label_clips%d"
+msgstr[0] "%d clip"
+msgstr[1] "%d clips"
+
+msgid "mp_bd_label_hour%s"
+msgid_plural "mp_bd_label_hours%s"
+msgstr[0] "%s heure"
+msgstr[1] "%s heures"
+
+msgid "mp_bd_label_min%s"
+msgid_plural "mp_bd_label_minutes%s"
+msgstr[0] "%s minute"
+msgstr[1] "%s minutes"
+
+msgid "mp_bd_label_playlist%d"
+msgid_plural "mp_bd_label_playlists%d"
+msgstr[0] "%d liste de lecture"
+msgstr[1] "%d listes de lecture"
+
+msgid "mp_bd_label_sec%s"
+msgid_plural "mp_bd_label_seconds%s"
+msgstr[0] "%s seconde"
+msgstr[1] "%s secondes"
+
+msgid "mp_bd_label_song%d"
+msgid_plural "mp_bd_label_songs%d"
+msgstr[0] "%d morceau"
+msgstr[1] "%d morceaux"
+
+msgid "mp_bd_label_station%d"
+msgid_plural "mp_bd_label_stations%d"
+msgstr[0] "%d station"
+msgstr[1] "%d stations"
+
+msgid "mp_bd_more"
+msgstr "Autres"
+
+msgid "mp_bd_music"
+msgstr "Musique"
+
+msgid "mp_bd_radio"
+msgstr "Radio Internet"
+
+msgid "mp_bd_shuffle"
+msgstr "Lecture aléatoire des morceaux"
+
+msgid "mp_bd_shuffle_all"
+msgstr "Lecture aléatoire"
+
+msgid "mp_bd_song_details%d%d"
+msgstr "Morceau %d/%d"
+
+msgid "mp_bd_video"
+msgstr "Vidéo"
+
+msgid "mp_fi_addradio_name"
+msgstr "Nom"
+
+msgid "mp_fi_addradio_url"
+msgstr "Adresse Web"
+
+msgid "mp_fi_addvideo_name"
+msgstr "Nom"
+
+msgid "mp_fi_addvideo_url"
+msgstr "Adresse Web"
+
+msgid "mp_fi_save_playlist_name"
+msgstr "Nom "
+
+msgid "mp_ib_bookmarks_empty"
+msgstr "Impossible d'ajouter un signet vide"
+
+msgid "mp_ib_bookmarks_exists"
+msgstr "Flux déjà enregistré sous %s"
+
+msgid "mp_ib_clip_added_nowplay"
+msgid_plural "mp_ib_clip_added_nowplays"
+msgstr[0] "%d clip ajouté à la lecture en cours"
+msgstr[1] "%d clips ajoutés à la lecture en cours"
+
+msgid "mp_ib_determine_stream_type"
+msgstr "Ouverture du flux"
+
+msgid "mp_ib_drm_prohibits"
+msgstr ""
+"Impossible de lire le fichier multimédia.\n"
+"Droits d'auteur protégés."
+
+msgid "mp_ib_file_not_found"
+msgstr "Fichier multimédia introuvable"
+
+msgid "mp_ib_invalid_url"
+msgstr "URL invalide"
+
+msgid "mp_ib_no_connection_internet"
+msgstr "Aucune connexion au réseau"
+
+msgid "mp_ib_no_connection_server"
+msgstr "Aucune connexion au serveur"
+
+msgid "mp_ib_no_songs"
+msgstr "(aucun morceau)"
+
+msgid "mp_ib_no_videos"
+msgstr "(aucune vidéo)"
+
+msgid "mp_ib_playback_error"
+msgstr "Erreur de lecture"
+
+msgid "mp_ib_refreshing_library"
+msgstr "Rafraîchissement de la bibliothèque"
+
+msgid "mp_ib_set_ringtone"
+msgstr "Morceau sélectionné défini comme sonnerie"
+
+msgid "mp_ib_stream_saved"
+msgstr "Signet multimédia enregistré"
+
+msgid "mp_ib_unable_to_seek"
+msgstr "Impossible de parcourir le flux"
+
+msgid "mp_ib_unsupported_audio_codec"
+msgstr ""
+"Impossible de lire le fichier multimédia.\n"
+"Codec audio non pris en charge."
+
+msgid "mp_ib_unsupported_format"
+msgstr ""
+"Impossible de lire le fichier multimédia.\n"
+"Format de fichier non pris en charge."
+
+msgid "mp_li_album%d"
+msgid_plural "mp_li_albums%d"
+msgstr[0] "%d album"
+msgstr[1] "%d albums"
+
+msgid "mp_li_artist%d"
+msgid_plural "mp_li_artists%d"
+msgstr[0] "%d artiste"
+msgstr[1] "%d artistes"
+
+msgid "mp_li_never_played"
+msgstr "Jamais lus"
+
+msgid "mp_li_no_albums"
+msgstr "(aucun album)"
+
+msgid "mp_li_no_artists"
+msgstr "(aucun artiste)"
+
+msgid "mp_li_no_duration"
+msgstr "--:--"
+
+msgid "mp_li_no_genres"
+msgstr "(aucun genre)"
+
+msgid "mp_li_no_metadata"
+msgstr "Informations non disponibles"
+
+msgid "mp_li_no_radio"
+msgstr "(aucune station de radio enregistrée)"
+
+msgid "mp_li_no_radios_suggestion"
+msgstr ""
+"Pour ajouter des stations, accéder à la barre de menu ou au navigateur Web."
+
+msgid "mp_li_no_songs"
+msgstr "(aucun morceau)"
+
+msgid "mp_li_no_videos"
+msgstr "(aucune vidéo)"
+
+msgid "mp_li_recently_added"
+msgstr "Derniers ajoutés"
+
+msgid "mp_li_recently_played"
+msgstr "Derniers lus"
+
+msgid "mp_li_song%d"
+msgid_plural "mp_li_songs%d"
+msgstr[0] "%d morceau"
+msgstr[1] "%d morceaux"
+
+msgid "mp_li_top_played"
+msgstr "Les plus lus"
+
+msgid "mp_li_unknown_album"
+msgstr "(album inconnu)"
+
+msgid "mp_li_unknown_artist"
+msgstr "(artiste inconnu)"
+
+msgid "mp_li_unknown_genre"
+msgstr "(genre inconnu)"
+
+msgid "mp_li_unknown_song"
+msgstr "(morceau inconnu)"
+
+msgid "mp_li_various_artists"
+msgstr "Artistes divers"
+
+msgid "mp_me_add_items_to_cp"
+msgstr ""
+"Ajouter des éléments à\n"
+"la lecture en cours"
+
+msgid "mp_me_add_radio_bookmark"
+msgstr "Ajouter un signet radio"
+
+msgid "mp_me_add_songs_to_cp"
+msgstr ""
+"Ajouter des morceaux à\n"
+"la lecture en cours"
+
+msgid "mp_me_add_to_cp"
+msgstr "Ajouter à la lecture en cours"
+
+msgid "mp_me_all_albums"
+msgstr "Tous les albums"
+
+msgid "mp_me_all_songs"
+msgstr "Tous les morceaux"
+
+msgid "mp_me_artists"
+msgstr "Artistes"
+
+msgid "mp_me_clear_cp"
+msgstr "Effacer la lecture en cours"
+
+msgid "mp_me_delete"
+msgstr "Supprimer"
+
+msgid "mp_me_delete_from_cp"
+msgstr "Supprimer de la lecture en cours"
+
+msgid "mp_me_delete_from_playlist"
+msgstr "Supprimer de la liste de lecture"
+
+msgid "mp_me_delete_playlist"
+msgstr "Supprimer la liste de lecture"
+
+msgid "mp_me_delete_songs"
+msgstr "Supprimer des chansons"
+
+msgid "mp_me_edit_radio"
+msgstr "Modifier"
+
+msgid "mp_me_edit_video"
+msgstr "Modifier"
+
+msgid "mp_me_filtering_by_cat"
+msgstr "Catégories"
+
+msgid "mp_me_filtering_by_date"
+msgstr "Date "
+
+msgid "mp_me_fm"
+msgstr "Émetteur FM"
+
+msgid "mp_me_genres"
+msgstr "Genres"
+
+msgid "mp_me_mafw_plugins"
+msgstr "Extensions"
+
+msgid "mp_me_mediaplayer_home_applet"
+msgstr "Lecteur multimédia"
+
+msgid "mp_me_playlists"
+msgstr "Listes de lecture"
+
+msgid "mp_me_save_cp"
+msgstr "Enregistrer la liste de lecture"
+
+msgid "mp_me_set_ringtone"
+msgstr "Définir comme sonnerie"
+
+msgid "mp_nc_clear_cp"
+msgstr "Effacer tous les morceaux en cours de lecture ?"
+
+msgid "mp_nc_delete_all"
+msgstr "Supprimer tous les éléments affichés ?"
+
+msgid "mp_nc_delete_current_playlist"
+msgstr "Supprimer du terminal la liste de lecture actuellement ouverte ?"
+
+msgid "mp_nc_delete_playlist"
+msgstr "Supprimer liste de lecture sélectionnée du terminal ?"
+
+msgid "mp_nc_delete_selected"
+msgstr "Supprimer élément sélectionné du terminal ?"
+
+msgid "mp_nc_replace_bookmark%s"
+msgstr ""
+"Nom %s déjà utilisé.\n"
+"Remplacer le signet existant ?"
+
+msgid "mp_nc_replace_playlist%s"
+msgstr "Nom %s déjà utilisé. Remplacer la liste de lecture existante ?"
+
+msgid "mp_ni_corrupt_playlist"
+msgstr ""
+"Impossible d'ouvrir.\n"
+"Liste de lecture corrompue."
+
+msgid "mp_ni_tracker_indexing"
+msgstr ""
+"Récupération des informations sur les nouveaux fichiers multimédia.\n"
+"Temps restant estimé à : %s"
+
+msgid "mp_ni_unable_to_perform"
+msgstr "Impossible d'exécuter l'opération"
+
+msgid "mp_ni_unsupported_video_codec"
+msgstr ""
+"Impossible de lire le fichier multimédia.\n"
+"Codec vidéo non pris en charge."
+
+msgid "mp_ni_unsupported_videoreso"
+msgstr ""
+"Impossible de lire le fichier multimédia.\n"
+"Résolution vidéo non prise en charge."
+
+msgid "mp_pb_buffering"
+msgstr "Mise en mémoire tampon"
+
+msgid "mp_pb_connecting"
+msgstr "Connexion"
+
+msgid "mp_ti_addradio"
+msgstr "Ajouter signet radio"
+
+msgid "mp_ti_addvideo"
+msgstr "Ajouter signet vidéo"
+
+msgid "mp_ti_all_albums"
+msgstr "Albums"
+
+msgid "mp_ti_all_songs"
+msgstr "Morceaux"
+
+msgid "mp_ti_artists"
+msgstr "Artistes"
+
+msgid "mp_ti_edit_radio"
+msgstr "Modifier signet radio"
+
+msgid "mp_ti_edit_video"
+msgstr "Modifier signet vidéo"
+
+msgid "mp_ti_genres"
+msgstr "Genres"
+
+msgid "mp_ti_launch_first"
+msgstr "Lancer"
+
+msgid "mp_ti_launch_second"
+msgstr "Lect. média"
+
+msgid "mp_ti_mafw_plugins"
+msgstr "Extensions"
+
+msgid "mp_ti_mp"
+msgstr "Lecteur multimédia"
+
+msgid "mp_ti_name"
+msgstr "Lect. média"
+
+msgid "mp_ti_now_playing"
+msgstr "Lecture en cours"
+
+msgid "mp_ti_playlist_automatic"
+msgstr "Listes de lecture automatiques"
+
+msgid "mp_ti_playlist_imported"
+msgstr "Importées"
+
+msgid "mp_ti_playlist_saved"
+msgstr "Enregistrées"
+
+msgid "mp_ti_playlists"
+msgstr "Listes de lecture"
+
+msgid "mp_ti_radio_library"
+msgstr "Stations de radio Internet"
+
+msgid "mp_ti_save_playlist"
+msgstr "Enregistrer la liste de lecture"
+
+msgid "mp_ti_server_root"
+msgstr "%s"
+
+msgid "mp_ti_server_root_no"
+msgstr "Serveur multimédia"
+
+msgid "mp_ti_server_sub"
+msgstr "%s"
+
+msgid "mp_ti_upnp_servers"
+msgstr "Serveurs UPnP"
+
+msgid "mp_ti_videos_bookmarks"
+msgstr "Signets vidéo"
+
+msgid "mp_ti_videos_cat"
+msgstr "Vidéos - par catégories"
+
+msgid "mp_ti_videos_latest"
+msgstr "Vidéos - les plus récentes"
+
+msgid "mp_ti_videos_movies"
+msgstr "Films"
+
+msgid "mp_ti_videos_recorded"
+msgstr "Enregistrées par la caméra du terminal"

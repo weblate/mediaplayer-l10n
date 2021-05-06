@@ -1,0 +1,432 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mediaplayer 20091130134223\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.30 13:42+0200\n"
+"PO-Revision-Date: 2009.11.30 13:42+0200\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "mp_ap_name"
+msgstr "Mediaspeler"
+
+msgid "mp_bd_label_clip%d"
+msgid_plural "mp_bd_label_clips%d"
+msgstr[0] "%d clip"
+msgstr[1] "%d clips"
+
+msgid "mp_bd_label_hour%s"
+msgid_plural "mp_bd_label_hours%s"
+msgstr[0] "%s uur"
+msgstr[1] "%s uur"
+
+msgid "mp_bd_label_min%s"
+msgid_plural "mp_bd_label_minutes%s"
+msgstr[0] "%s minuut"
+msgstr[1] "%s minuten"
+
+msgid "mp_bd_label_playlist%d"
+msgid_plural "mp_bd_label_playlists%d"
+msgstr[0] "%d afspeellijst"
+msgstr[1] "%d afspeellijsten"
+
+msgid "mp_bd_label_sec%s"
+msgid_plural "mp_bd_label_seconds%s"
+msgstr[0] "%s seconde"
+msgstr[1] "%s seconden"
+
+msgid "mp_bd_label_song%d"
+msgid_plural "mp_bd_label_songs%d"
+msgstr[0] "%d nummer"
+msgstr[1] "%d nummers"
+
+msgid "mp_bd_label_station%d"
+msgid_plural "mp_bd_label_stations%d"
+msgstr[0] "%d zender"
+msgstr[1] "%d zenders"
+
+msgid "mp_bd_more"
+msgstr "Meer"
+
+msgid "mp_bd_music"
+msgstr "Muziek"
+
+msgid "mp_bd_radio"
+msgstr "Internetradio"
+
+msgid "mp_bd_shuffle"
+msgstr "Nummers willekeurig afspelen"
+
+msgid "mp_bd_shuffle_all"
+msgstr "Willek. afspelen"
+
+msgid "mp_bd_song_details%d%d"
+msgstr "%d/%d nummers"
+
+msgid "mp_bd_video"
+msgstr "Video"
+
+msgid "mp_fi_addradio_name"
+msgstr "Naam"
+
+msgid "mp_fi_addradio_url"
+msgstr "Webadres"
+
+msgid "mp_fi_addvideo_name"
+msgstr "Naam"
+
+msgid "mp_fi_addvideo_url"
+msgstr "Webadres"
+
+msgid "mp_fi_save_playlist_name"
+msgstr "Naam "
+
+msgid "mp_ib_bookmarks_empty"
+msgstr "Kan geen lege favoriet toevoegen"
+
+msgid "mp_ib_bookmarks_exists"
+msgstr "Stream is al opgeslagen als favoriet onder '%s'"
+
+msgid "mp_ib_clip_added_nowplay"
+msgid_plural "mp_ib_clip_added_nowplays"
+msgstr[0] "%d clip toegevoegd aan nu afspelen"
+msgstr[1] "%d clips toegevoegd aan nu afspelen"
+
+msgid "mp_ib_determine_stream_type"
+msgstr "Bezig met openen van stream"
+
+msgid "mp_ib_drm_prohibits"
+msgstr ""
+"Kan mediabestand niet afspelen.\n"
+"Auteursrechtelijk beschermd."
+
+msgid "mp_ib_file_not_found"
+msgstr "Kan mediabestand niet vinden"
+
+msgid "mp_ib_invalid_url"
+msgstr "Ongeldige URL"
+
+msgid "mp_ib_no_connection_internet"
+msgstr "Geen netwerkverbinding"
+
+msgid "mp_ib_no_connection_server"
+msgstr "Geen verbinding met server"
+
+msgid "mp_ib_no_songs"
+msgstr "(geen nummers)"
+
+msgid "mp_ib_no_videos"
+msgstr "(geen video's)"
+
+msgid "mp_ib_playback_error"
+msgstr "Afspeelfout"
+
+msgid "mp_ib_refreshing_library"
+msgstr "Bezig met vernieuwen bibliotheek"
+
+msgid "mp_ib_set_ringtone"
+msgstr "Geselecteerde nummer ingesteld als beltoon"
+
+msgid "mp_ib_stream_saved"
+msgstr "Mediafavoriet opgeslagen"
+
+msgid "mp_ib_unable_to_seek"
+msgstr "Kan niet zoeken in stream"
+
+msgid "mp_ib_unsupported_audio_codec"
+msgstr ""
+"Kan media niet afspelen.\n"
+"Audiocodec niet ondersteund."
+
+msgid "mp_ib_unsupported_format"
+msgstr ""
+"Kan media niet afspelen.\n"
+"Media-indeling niet ondersteund."
+
+msgid "mp_li_album%d"
+msgid_plural "mp_li_albums%d"
+msgstr[0] "%d album"
+msgstr[1] "%d albums"
+
+msgid "mp_li_artist%d"
+msgid_plural "mp_li_artists%d"
+msgstr[0] "%d artiest"
+msgstr[1] "%d artiesten"
+
+msgid "mp_li_never_played"
+msgstr "Nooit afgespeeld"
+
+msgid "mp_li_no_albums"
+msgstr "(geen albums)"
+
+msgid "mp_li_no_artists"
+msgstr "(geen artiesten)"
+
+msgid "mp_li_no_duration"
+msgstr "--:--"
+
+msgid "mp_li_no_genres"
+msgstr "(geen genres)"
+
+msgid "mp_li_no_metadata"
+msgstr "Informatie niet beschikbaar"
+
+msgid "mp_li_no_radio"
+msgstr "(geen opgeslagen radiozenders)"
+
+msgid "mp_li_no_radios_suggestion"
+msgstr "Ga naar de browser of naar het optiemenu om zenders toe te voegen."
+
+msgid "mp_li_no_songs"
+msgstr "(geen nummers)"
+
+msgid "mp_li_no_videos"
+msgstr "(geen video's)"
+
+msgid "mp_li_recently_added"
+msgstr "Recent toegevoegd"
+
+msgid "mp_li_recently_played"
+msgstr "Recent afgespeeld"
+
+msgid "mp_li_song%d"
+msgid_plural "mp_li_songs%d"
+msgstr[0] "%d nummer"
+msgstr[1] "%d nummers"
+
+msgid "mp_li_top_played"
+msgstr "Meest afgespeeld"
+
+msgid "mp_li_unknown_album"
+msgstr "(onbekend album)"
+
+msgid "mp_li_unknown_artist"
+msgstr "(onbekende artiest)"
+
+msgid "mp_li_unknown_genre"
+msgstr "(onbekend genre)"
+
+msgid "mp_li_unknown_song"
+msgstr "(onbekend nummer)"
+
+msgid "mp_li_various_artists"
+msgstr "Verschillende artiesten"
+
+msgid "mp_me_add_items_to_cp"
+msgstr ""
+"Items toevoegen aan\n"
+"nu afspelen"
+
+msgid "mp_me_add_radio_bookmark"
+msgstr "Radiofavoriet toevoegen"
+
+msgid "mp_me_add_songs_to_cp"
+msgstr ""
+"Nummers toevoegen aan\n"
+"nu afspelen"
+
+msgid "mp_me_add_to_cp"
+msgstr "Toevoegen aan nu afspelen"
+
+msgid "mp_me_all_albums"
+msgstr "Alle albums"
+
+msgid "mp_me_all_songs"
+msgstr "Alle nummers"
+
+msgid "mp_me_artists"
+msgstr "Artiesten"
+
+msgid "mp_me_clear_cp"
+msgstr "Nu afspelen wissen"
+
+msgid "mp_me_delete"
+msgstr "Verwijderen"
+
+msgid "mp_me_delete_from_cp"
+msgstr "Verwijderen uit nu afspelen"
+
+msgid "mp_me_delete_from_playlist"
+msgstr "Verwijderen uit afspeellijst"
+
+msgid "mp_me_delete_playlist"
+msgstr "Afspeellijst verwijderen"
+
+msgid "mp_me_delete_songs"
+msgstr "Nummers verwijderen"
+
+msgid "mp_me_edit_radio"
+msgstr "Bewerken"
+
+msgid "mp_me_edit_video"
+msgstr "Bewerken"
+
+msgid "mp_me_filtering_by_cat"
+msgstr "Categorie"
+
+msgid "mp_me_filtering_by_date"
+msgstr "Datum"
+
+msgid "mp_me_fm"
+msgstr "FM-zender"
+
+msgid "mp_me_genres"
+msgstr "Genres"
+
+msgid "mp_me_mafw_plugins"
+msgstr "Invoegtoepassingen"
+
+msgid "mp_me_mediaplayer_home_applet"
+msgstr "Mediaspeler"
+
+msgid "mp_me_playlists"
+msgstr "Afspeellijsten"
+
+msgid "mp_me_save_cp"
+msgstr "Afspeellijst opslaan"
+
+msgid "mp_me_set_ringtone"
+msgstr "Instellen als beltoon"
+
+msgid "mp_nc_clear_cp"
+msgstr "Alle nummers in nu afspelen wissen?"
+
+msgid "mp_nc_delete_all"
+msgstr "Alle weergegeven items verwijderen?"
+
+msgid "mp_nc_delete_current_playlist"
+msgstr "Momenteel geopende afspeellijst van apparaat verwijderen?"
+
+msgid "mp_nc_delete_playlist"
+msgstr "Geselecteerde afspeellijst van apparaat verwijderen?"
+
+msgid "mp_nc_delete_selected"
+msgstr "Geselecteerd item van apparaat verwijderen?"
+
+msgid "mp_nc_replace_bookmark%s"
+msgstr ""
+"Naam '%s' al in gebruik.\n"
+"Bestaande favoriet vervangen?"
+
+msgid "mp_nc_replace_playlist%s"
+msgstr "Naam %s al in gebruik. Bestaande afspeellijst vervangen?"
+
+msgid "mp_ni_corrupt_playlist"
+msgstr ""
+"Kan niet openen.\n"
+"Afspeellijst beschadigd."
+
+msgid "mp_ni_tracker_indexing"
+msgstr ""
+"Informatie in de nieuwe mediabestanden ophalen.\n"
+"Geschatte resterende tijd: %s"
+
+msgid "mp_ni_unable_to_perform"
+msgstr "Kan de bewerking niet uitvoeren"
+
+msgid "mp_ni_unsupported_video_codec"
+msgstr ""
+"Kan media niet afspelen.\n"
+"Videocodec niet ondersteund."
+
+msgid "mp_ni_unsupported_videoreso"
+msgstr ""
+"Kan media niet afspelen.\n"
+"Videoresolutie niet ondersteund."
+
+msgid "mp_pb_buffering"
+msgstr "Bezig met bufferen"
+
+msgid "mp_pb_connecting"
+msgstr "Bezig met verbinden"
+
+msgid "mp_ti_addradio"
+msgstr "Radiofavoriet toevoegen"
+
+msgid "mp_ti_addvideo"
+msgstr "Videofavoriet toevoegen"
+
+msgid "mp_ti_all_albums"
+msgstr "Albums"
+
+msgid "mp_ti_all_songs"
+msgstr "Nummers"
+
+msgid "mp_ti_artists"
+msgstr "Artiesten"
+
+msgid "mp_ti_edit_radio"
+msgstr "Radiofavoriet bewerken"
+
+msgid "mp_ti_edit_video"
+msgstr "Videofavoriet bewerken"
+
+msgid "mp_ti_genres"
+msgstr "Genres"
+
+msgid "mp_ti_launch_first"
+msgstr "Starten"
+
+msgid "mp_ti_launch_second"
+msgstr "Mediaspeler"
+
+msgid "mp_ti_mafw_plugins"
+msgstr "Invoegtoepassingen"
+
+msgid "mp_ti_mp"
+msgstr "Mediaspeler"
+
+msgid "mp_ti_name"
+msgstr "Mediaspeler"
+
+msgid "mp_ti_now_playing"
+msgstr "Nu afspelen"
+
+msgid "mp_ti_playlist_automatic"
+msgstr "Automatische afspeellijsten"
+
+msgid "mp_ti_playlist_imported"
+msgstr "Geïmporteerd"
+
+msgid "mp_ti_playlist_saved"
+msgstr "Opgeslagen"
+
+msgid "mp_ti_playlists"
+msgstr "Afspeellijsten"
+
+msgid "mp_ti_radio_library"
+msgstr "Internetradiozenders"
+
+msgid "mp_ti_save_playlist"
+msgstr "Afspeellijst opslaan"
+
+msgid "mp_ti_server_root"
+msgstr "%s"
+
+msgid "mp_ti_server_root_no"
+msgstr "Mediaserver"
+
+msgid "mp_ti_server_sub"
+msgstr "%s"
+
+msgid "mp_ti_upnp_servers"
+msgstr "UPnP-servers"
+
+msgid "mp_ti_videos_bookmarks"
+msgstr "Videofavorieten"
+
+msgid "mp_ti_videos_cat"
+msgstr "Video's - categorieën"
+
+msgid "mp_ti_videos_latest"
+msgstr "Video's - nieuwste"
+
+msgid "mp_ti_videos_movies"
+msgstr "Films"
+
+msgid "mp_ti_videos_recorded"
+msgstr "Opgenomen met camera van apparaat"

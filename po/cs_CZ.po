@@ -1,0 +1,445 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mediaplayer 20091130134223\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.30 13:42+0200\n"
+"PO-Revision-Date: 2009.11.30 13:42+0200\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "mp_ap_name"
+msgstr "Přehrávač médií"
+
+msgid "mp_bd_label_clip%d"
+msgid_plural "mp_bd_label_clips%d"
+msgstr[0] "%d klip"
+msgstr[1] "%d klipy"
+msgstr[2] "%d klipů"
+
+msgid "mp_bd_label_hour%s"
+msgid_plural "mp_bd_label_hours%s"
+msgstr[0] "%s hodina"
+msgstr[1] "%s hodiny"
+msgstr[2] "%s hodin"
+
+msgid "mp_bd_label_min%s"
+msgid_plural "mp_bd_label_minutes%s"
+msgstr[0] "%s minuta"
+msgstr[1] "%s minuty"
+msgstr[2] "%s minut"
+
+msgid "mp_bd_label_playlist%d"
+msgid_plural "mp_bd_label_playlists%d"
+msgstr[0] "%d seznam stop"
+msgstr[1] "%d seznamy stop"
+msgstr[2] "%d seznamů stop"
+
+msgid "mp_bd_label_sec%s"
+msgid_plural "mp_bd_label_seconds%s"
+msgstr[0] "%s sekunda"
+msgstr[1] "%s sekundy"
+msgstr[2] "%s sekund"
+
+msgid "mp_bd_label_song%d"
+msgid_plural "mp_bd_label_songs%d"
+msgstr[0] "%d skladba"
+msgstr[1] "%d skladby"
+msgstr[2] "%d skladeb"
+
+msgid "mp_bd_label_station%d"
+msgid_plural "mp_bd_label_stations%d"
+msgstr[0] "%d stanice"
+msgstr[1] "%d stanice"
+msgstr[2] "%d stanic"
+
+msgid "mp_bd_more"
+msgstr "Další"
+
+msgid "mp_bd_music"
+msgstr "Hudba"
+
+msgid "mp_bd_radio"
+msgstr "Internetové rádio"
+
+msgid "mp_bd_shuffle"
+msgstr "Zamíchat skladby"
+
+msgid "mp_bd_shuffle_all"
+msgstr "Zamíchat skladby"
+
+msgid "mp_bd_song_details%d%d"
+msgstr "skladba %d/%d"
+
+msgid "mp_bd_video"
+msgstr "Video"
+
+msgid "mp_fi_addradio_name"
+msgstr "Název"
+
+msgid "mp_fi_addradio_url"
+msgstr "Webová adresa"
+
+msgid "mp_fi_addvideo_name"
+msgstr "Název"
+
+msgid "mp_fi_addvideo_url"
+msgstr "Webová adresa"
+
+msgid "mp_fi_save_playlist_name"
+msgstr "Název "
+
+msgid "mp_ib_bookmarks_empty"
+msgstr "Nelze přidat prázdnou záložku"
+
+msgid "mp_ib_bookmarks_exists"
+msgstr "Tato stanice již má záložku '%s'"
+
+msgid "mp_ib_clip_added_nowplay"
+msgid_plural "mp_ib_clip_added_nowplays"
+msgstr[0] "%d klip přidán do aktuálně přehrávaných"
+msgstr[1] "%d klipy přidány do aktuálně přehrávaných"
+msgstr[2] "%d klipů přidáno do aktuálně přehrávaných"
+
+msgid "mp_ib_determine_stream_type"
+msgstr "Otevírání streamu"
+
+msgid "mp_ib_drm_prohibits"
+msgstr ""
+"Nelze přehrát soubor média.\n"
+"Chráněno autorským právem."
+
+msgid "mp_ib_file_not_found"
+msgstr "Nelze najít soubor média"
+
+msgid "mp_ib_invalid_url"
+msgstr "Neplatná adresa URL"
+
+msgid "mp_ib_no_connection_internet"
+msgstr "Žádné síťové připojení"
+
+msgid "mp_ib_no_connection_server"
+msgstr "Žádné připojení k serveru"
+
+msgid "mp_ib_no_songs"
+msgstr "(žádné skladby)"
+
+msgid "mp_ib_no_videos"
+msgstr "(žádná videa)"
+
+msgid "mp_ib_playback_error"
+msgstr "Chyba přehrávání"
+
+msgid "mp_ib_refreshing_library"
+msgstr "Obnovení knihovny"
+
+msgid "mp_ib_set_ringtone"
+msgstr "Vybraná skladba byla nastavena jako vyzváněcí tón"
+
+msgid "mp_ib_stream_saved"
+msgstr "Záložka média uložena"
+
+msgid "mp_ib_unable_to_seek"
+msgstr "Nelze vyhledat stream"
+
+msgid "mp_ib_unsupported_audio_codec"
+msgstr ""
+"Médium nelze přehrát.\n"
+"Nepodporovaný zvukový kodek."
+
+msgid "mp_ib_unsupported_format"
+msgstr ""
+"Médium nelze přehrát.\n"
+"Nepodporovaný formát média."
+
+msgid "mp_li_album%d"
+msgid_plural "mp_li_albums%d"
+msgstr[0] "%d album"
+msgstr[1] "%d alba"
+msgstr[2] "%d alb"
+
+msgid "mp_li_artist%d"
+msgid_plural "mp_li_artists%d"
+msgstr[0] "%d interpret"
+msgstr[1] "%d interpreti"
+msgstr[2] "%d interpretů"
+
+msgid "mp_li_never_played"
+msgstr "Nikdy nepřehrané"
+
+msgid "mp_li_no_albums"
+msgstr "(žádná alba)"
+
+msgid "mp_li_no_artists"
+msgstr "(žádní interpreti)"
+
+msgid "mp_li_no_duration"
+msgstr "--:--"
+
+msgid "mp_li_no_genres"
+msgstr "(žádné žánry)"
+
+msgid "mp_li_no_metadata"
+msgstr "Informace není dostupná"
+
+msgid "mp_li_no_radio"
+msgstr "(žádné uložené stanice)"
+
+msgid "mp_li_no_radios_suggestion"
+msgstr ""
+"Pokud chcete přidat stanice, přejděte do aplikace Web\n"
+"nebo do nabídkové lišty."
+
+msgid "mp_li_no_songs"
+msgstr "(žádné skladby)"
+
+msgid "mp_li_no_videos"
+msgstr "(žádná videa)"
+
+msgid "mp_li_recently_added"
+msgstr "Nedávno přidané"
+
+msgid "mp_li_recently_played"
+msgstr "Nedávno přehrávané"
+
+msgid "mp_li_song%d"
+msgid_plural "mp_li_songs%d"
+msgstr[0] "%d skladba"
+msgstr[1] "%d skladby"
+msgstr[2] "%d skladeb"
+
+msgid "mp_li_top_played"
+msgstr "Nejčastěji přehrávané"
+
+msgid "mp_li_unknown_album"
+msgstr "(neznámé album)"
+
+msgid "mp_li_unknown_artist"
+msgstr "(neznámý interpret)"
+
+msgid "mp_li_unknown_genre"
+msgstr "(neznámý žánr)"
+
+msgid "mp_li_unknown_song"
+msgstr "(neznámá skladba)"
+
+msgid "mp_li_various_artists"
+msgstr "Různí interpreti"
+
+msgid "mp_me_add_items_to_cp"
+msgstr ""
+"Přidat položky do\n"
+"aktuálně přehrávaných"
+
+msgid "mp_me_add_radio_bookmark"
+msgstr "Přidat záložku rádia"
+
+msgid "mp_me_add_songs_to_cp"
+msgstr ""
+"Přidat skladby do\n"
+"aktuálně přehrávaných"
+
+msgid "mp_me_add_to_cp"
+msgstr "Přidat do aktuálně přehrávaných"
+
+msgid "mp_me_all_albums"
+msgstr "Všechna alba"
+
+msgid "mp_me_all_songs"
+msgstr "Všechny skladby"
+
+msgid "mp_me_artists"
+msgstr "Interpreti"
+
+msgid "mp_me_clear_cp"
+msgstr "Vymazat aktuálně přehrávané"
+
+msgid "mp_me_delete"
+msgstr "Odstranit"
+
+msgid "mp_me_delete_from_cp"
+msgstr "Odstranit z aktuálně přehrávaných"
+
+msgid "mp_me_delete_from_playlist"
+msgstr "Odstranit ze seznamu skladeb"
+
+msgid "mp_me_delete_playlist"
+msgstr "Odstranit seznam stop"
+
+msgid "mp_me_delete_songs"
+msgstr "Odstranit skladby"
+
+msgid "mp_me_edit_radio"
+msgstr "Upravit"
+
+msgid "mp_me_edit_video"
+msgstr "Upravit"
+
+msgid "mp_me_filtering_by_cat"
+msgstr "Kategorie"
+
+msgid "mp_me_filtering_by_date"
+msgstr "Datum"
+
+msgid "mp_me_fm"
+msgstr "FM vysílač"
+
+msgid "mp_me_genres"
+msgstr "Žánry"
+
+msgid "mp_me_mafw_plugins"
+msgstr "Moduly plug-in"
+
+msgid "mp_me_mediaplayer_home_applet"
+msgstr "Přehrávač médií"
+
+msgid "mp_me_playlists"
+msgstr "Seznamy stop"
+
+msgid "mp_me_save_cp"
+msgstr "Uložit seznam stop"
+
+msgid "mp_me_set_ringtone"
+msgstr "Nastavit jako vyzváněcí tón"
+
+msgid "mp_nc_clear_cp"
+msgstr "Vymazat všechny skladby z aktuálně přehrávaných?"
+
+msgid "mp_nc_delete_all"
+msgstr "Odstranit všechny zobrazené položky?"
+
+msgid "mp_nc_delete_current_playlist"
+msgstr "Odstranit aktuálně otevřený seznam stop z přístroje?"
+
+msgid "mp_nc_delete_playlist"
+msgstr "Odstranit vybraný seznam stop z přístroje?"
+
+msgid "mp_nc_delete_selected"
+msgstr "Odstranit vybranou položku z přístroje?"
+
+msgid "mp_nc_replace_bookmark%s"
+msgstr ""
+"Název %s se již používá.\n"
+"Nahradit stávající záložku?"
+
+msgid "mp_nc_replace_playlist%s"
+msgstr "Název %s se již používá. Nahradit stávající seznam stop?"
+
+msgid "mp_ni_corrupt_playlist"
+msgstr ""
+"Nelze otevřít.\n"
+"Seznam stop poškozen."
+
+msgid "mp_ni_tracker_indexing"
+msgstr ""
+"Získávání informací o nových multimediálních\n"
+"souborech. Odhadovaný zbývající čas: %s"
+
+msgid "mp_ni_unable_to_perform"
+msgstr "Nelze provést operaci"
+
+msgid "mp_ni_unsupported_video_codec"
+msgstr ""
+"Médium nelze přehrát.\n"
+"Nepodporovaný videokodek."
+
+msgid "mp_ni_unsupported_videoreso"
+msgstr ""
+"Médium nelze přehrát.\n"
+"Nepodporované rozlišení videa."
+
+msgid "mp_pb_buffering"
+msgstr "Ukládání do vyrovnávací paměti"
+
+msgid "mp_pb_connecting"
+msgstr "Připojování"
+
+msgid "mp_ti_addradio"
+msgstr "Přidat záložku rádia"
+
+msgid "mp_ti_addvideo"
+msgstr "Přidat záložku videa"
+
+msgid "mp_ti_all_albums"
+msgstr "Alba"
+
+msgid "mp_ti_all_songs"
+msgstr "Skladby"
+
+msgid "mp_ti_artists"
+msgstr "Interpreti"
+
+msgid "mp_ti_edit_radio"
+msgstr "Upravit záložku rádia"
+
+msgid "mp_ti_edit_video"
+msgstr "Upravit záložku videa"
+
+msgid "mp_ti_genres"
+msgstr "Žánry"
+
+msgid "mp_ti_launch_first"
+msgstr "Spustit"
+
+msgid "mp_ti_launch_second"
+msgstr "Přehrávač médií"
+
+msgid "mp_ti_mafw_plugins"
+msgstr "Moduly plug-in"
+
+msgid "mp_ti_mp"
+msgstr "Přehrávač médií"
+
+msgid "mp_ti_name"
+msgstr "Přehrávač médií"
+
+msgid "mp_ti_now_playing"
+msgstr "Přehrává se"
+
+msgid "mp_ti_playlist_automatic"
+msgstr "Automatické seznamy stop"
+
+msgid "mp_ti_playlist_imported"
+msgstr "Importováno"
+
+msgid "mp_ti_playlist_saved"
+msgstr "Uloženo"
+
+msgid "mp_ti_playlists"
+msgstr "Seznamy stop"
+
+msgid "mp_ti_radio_library"
+msgstr "Internetové rozhlasové stanice"
+
+msgid "mp_ti_save_playlist"
+msgstr "Uložit seznam stop"
+
+msgid "mp_ti_server_root"
+msgstr "%s"
+
+msgid "mp_ti_server_root_no"
+msgstr "Media server"
+
+msgid "mp_ti_server_sub"
+msgstr "%s"
+
+msgid "mp_ti_upnp_servers"
+msgstr "Servery UPnP"
+
+msgid "mp_ti_videos_bookmarks"
+msgstr "Záložky videa"
+
+msgid "mp_ti_videos_cat"
+msgstr "Videa – kategorie"
+
+msgid "mp_ti_videos_latest"
+msgstr "Videa – nejnovější"
+
+msgid "mp_ti_videos_movies"
+msgstr "Filmy"
+
+msgid "mp_ti_videos_recorded"
+msgstr "Nahraná kamerou přístroje"

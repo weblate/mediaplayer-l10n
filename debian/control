@@ -1,0 +1,119 @@
+Source: mediaplayer-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: mediaplayer-l10n-mr0
+Section: misc
+Architecture: all
+Provides: mediaplayer-l10n-mr
+Depends: mediaplayer-l10n-ruru, mediaplayer-l10n-frfr, mediaplayer-l10n-frca, mediaplayer-l10n-dadk, mediaplayer-l10n-itit, mediaplayer-l10n-svse, mediaplayer-l10n-nono, mediaplayer-l10n-fifi, mediaplayer-l10n-nlnl, mediaplayer-l10n-enus, mediaplayer-l10n-dede, mediaplayer-l10n-esmx, mediaplayer-l10n-eses, mediaplayer-l10n-cscz, mediaplayer-l10n-ptpt, mediaplayer-l10n-engb, mediaplayer-l10n-plpl
+Description: mediaplayer marketing release package
+ This is a metapackage for mediaplayer to pull all the l10n packages.
+ Application developers of mediaplayer should depend on
+ "mediaplayer-l10n-mr0 | mediaplayer-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: mediaplayer-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for mediaplayer (cs_CZ)
+ Language files for cs_CZ mediaplayer.
+
+Package: mediaplayer-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for mediaplayer (da_DK)
+ Language files for da_DK mediaplayer.
+
+Package: mediaplayer-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for mediaplayer (de_DE)
+ Language files for de_DE mediaplayer.
+
+Package: mediaplayer-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for mediaplayer (en_GB)
+ Language files for en_GB mediaplayer.
+
+Package: mediaplayer-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for mediaplayer (en_US)
+ Language files for en_US mediaplayer.
+
+Package: mediaplayer-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for mediaplayer (es_ES)
+ Language files for es_ES mediaplayer.
+
+Package: mediaplayer-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for mediaplayer (es_MX)
+ Language files for es_MX mediaplayer.
+
+Package: mediaplayer-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for mediaplayer (fi_FI)
+ Language files for fi_FI mediaplayer.
+
+Package: mediaplayer-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for mediaplayer (fr_CA)
+ Language files for fr_CA mediaplayer.
+
+Package: mediaplayer-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for mediaplayer (fr_FR)
+ Language files for fr_FR mediaplayer.
+
+Package: mediaplayer-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for mediaplayer (it_IT)
+ Language files for it_IT mediaplayer.
+
+Package: mediaplayer-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for mediaplayer (nl_NL)
+ Language files for nl_NL mediaplayer.
+
+Package: mediaplayer-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for mediaplayer (no_NO)
+ Language files for no_NO mediaplayer.
+
+Package: mediaplayer-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for mediaplayer (pl_PL)
+ Language files for pl_PL mediaplayer.
+
+Package: mediaplayer-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for mediaplayer (pt_PT)
+ Language files for pt_PT mediaplayer.
+
+Package: mediaplayer-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for mediaplayer (ru_RU)
+ Language files for ru_RU mediaplayer.
+
+Package: mediaplayer-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for mediaplayer (sv_SE)
+ Language files for sv_SE mediaplayer.

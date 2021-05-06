@@ -1,0 +1,432 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mediaplayer 20091130134223\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.30 13:42+0200\n"
+"PO-Revision-Date: 2009.11.30 13:42+0200\n"
+"Last-Translator:\n"
+"Language-Team: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "mp_ap_name"
+msgstr "Multimedia"
+
+msgid "mp_bd_label_clip%d"
+msgid_plural "mp_bd_label_clips%d"
+msgstr[0] "%d clip"
+msgstr[1] "%d clip"
+
+msgid "mp_bd_label_hour%s"
+msgid_plural "mp_bd_label_hours%s"
+msgstr[0] "%s ora"
+msgstr[1] "%s ore"
+
+msgid "mp_bd_label_min%s"
+msgid_plural "mp_bd_label_minutes%s"
+msgstr[0] "%s minuto"
+msgstr[1] "%s minuti"
+
+msgid "mp_bd_label_playlist%d"
+msgid_plural "mp_bd_label_playlists%d"
+msgstr[0] "Playlist %d"
+msgstr[1] "%d playlist"
+
+msgid "mp_bd_label_sec%s"
+msgid_plural "mp_bd_label_seconds%s"
+msgstr[0] "%s secondo"
+msgstr[1] "%s secondi"
+
+msgid "mp_bd_label_song%d"
+msgid_plural "mp_bd_label_songs%d"
+msgstr[0] "%d brano"
+msgstr[1] "%d brani"
+
+msgid "mp_bd_label_station%d"
+msgid_plural "mp_bd_label_stations%d"
+msgstr[0] "%d stazione"
+msgstr[1] "%d stazioni"
+
+msgid "mp_bd_more"
+msgstr "Altri"
+
+msgid "mp_bd_music"
+msgstr "Musica"
+
+msgid "mp_bd_radio"
+msgstr "Radio su Internet"
+
+msgid "mp_bd_shuffle"
+msgstr "Brani in ordine casuale"
+
+msgid "mp_bd_shuffle_all"
+msgstr "Brani casuali"
+
+msgid "mp_bd_song_details%d%d"
+msgstr "%d/%d brani"
+
+msgid "mp_bd_video"
+msgstr "Video"
+
+msgid "mp_fi_addradio_name"
+msgstr "Nome"
+
+msgid "mp_fi_addradio_url"
+msgstr "Indirizzo Web"
+
+msgid "mp_fi_addvideo_name"
+msgstr "Nome"
+
+msgid "mp_fi_addvideo_url"
+msgstr "Indirizzo Web"
+
+msgid "mp_fi_save_playlist_name"
+msgstr "Nome "
+
+msgid "mp_ib_bookmarks_empty"
+msgstr "Impossibile aggiungere preferito vuoto"
+
+msgid "mp_ib_bookmarks_exists"
+msgstr "Flusso già aggiunto ai preferiti in '%s'"
+
+msgid "mp_ib_clip_added_nowplay"
+msgid_plural "mp_ib_clip_added_nowplays"
+msgstr[0] "%d clip aggiunto alla riproduzione in corso"
+msgstr[1] "%d clip aggiunti alla riproduzione in corso"
+
+msgid "mp_ib_determine_stream_type"
+msgstr "Apertura flusso in corso"
+
+msgid "mp_ib_drm_prohibits"
+msgstr ""
+"Questo file è protetto dai diritti d'autore\n"
+"e non può essere riprodotto."
+
+msgid "mp_ib_file_not_found"
+msgstr "Impossibile trovare il file multimediale"
+
+msgid "mp_ib_invalid_url"
+msgstr "URL non valido"
+
+msgid "mp_ib_no_connection_internet"
+msgstr "Nessuna connessione di rete"
+
+msgid "mp_ib_no_connection_server"
+msgstr "Nessuna connessione al server"
+
+msgid "mp_ib_no_songs"
+msgstr "(nessun brano)"
+
+msgid "mp_ib_no_videos"
+msgstr "(nessun video)"
+
+msgid "mp_ib_playback_error"
+msgstr "Errore di riproduzione"
+
+msgid "mp_ib_refreshing_library"
+msgstr "Aggiornamento libreria in corso"
+
+msgid "mp_ib_set_ringtone"
+msgstr "Il brano selezionato è stato impostato come suoneria"
+
+msgid "mp_ib_stream_saved"
+msgstr "Salvataggio effettuato"
+
+msgid "mp_ib_unable_to_seek"
+msgstr "Impossibile cercare il flusso dati"
+
+msgid "mp_ib_unsupported_audio_codec"
+msgstr ""
+"Impossibile riprodurre il file multimediale.\n"
+"Codec audio non supportato."
+
+msgid "mp_ib_unsupported_format"
+msgstr ""
+"Impossibile riprodurre file multimediali.\n"
+"Formato multimediale non supportato."
+
+msgid "mp_li_album%d"
+msgid_plural "mp_li_albums%d"
+msgstr[0] "%d album"
+msgstr[1] "%d album"
+
+msgid "mp_li_artist%d"
+msgid_plural "mp_li_artists%d"
+msgstr[0] "%d artista"
+msgstr[1] "%d artisti"
+
+msgid "mp_li_never_played"
+msgstr "Mai ascoltati"
+
+msgid "mp_li_no_albums"
+msgstr "(nessun album)"
+
+msgid "mp_li_no_artists"
+msgstr "(nessun artista)"
+
+msgid "mp_li_no_duration"
+msgstr "--:--"
+
+msgid "mp_li_no_genres"
+msgstr "(nessun genere)"
+
+msgid "mp_li_no_metadata"
+msgstr "Informazioni non disponibili"
+
+msgid "mp_li_no_radio"
+msgstr "(nessuna stazione radio salvata)"
+
+msgid "mp_li_no_radios_suggestion"
+msgstr "Per aggiungere stazioni, aprire il browser o il menu principale."
+
+msgid "mp_li_no_songs"
+msgstr "(nessun brano)"
+
+msgid "mp_li_no_videos"
+msgstr "(nessun video)"
+
+msgid "mp_li_recently_added"
+msgstr "Aggiunti di recente"
+
+msgid "mp_li_recently_played"
+msgstr "Ascoltati di recente"
+
+msgid "mp_li_song%d"
+msgid_plural "mp_li_songs%d"
+msgstr[0] "%d brano"
+msgstr[1] "%d brani"
+
+msgid "mp_li_top_played"
+msgstr "I più ascoltati"
+
+msgid "mp_li_unknown_album"
+msgstr "(album sconosciuto)"
+
+msgid "mp_li_unknown_artist"
+msgstr "(artista sconosciuto)"
+
+msgid "mp_li_unknown_genre"
+msgstr "(genere sconosciuto)"
+
+msgid "mp_li_unknown_song"
+msgstr "(brano sconosciuto)"
+
+msgid "mp_li_various_artists"
+msgstr "Artisti vari"
+
+msgid "mp_me_add_items_to_cp"
+msgstr ""
+"Aggiungi elementi alla\n"
+"riproduzione in corso"
+
+msgid "mp_me_add_radio_bookmark"
+msgstr "Aggiungi radio preferita"
+
+msgid "mp_me_add_songs_to_cp"
+msgstr ""
+"Aggiungi alla\n"
+"riproduzione in corso"
+
+msgid "mp_me_add_to_cp"
+msgstr "Aggiungi alla riproduzione in corso"
+
+msgid "mp_me_all_albums"
+msgstr "Tutti gli album"
+
+msgid "mp_me_all_songs"
+msgstr "Tutti i brani"
+
+msgid "mp_me_artists"
+msgstr "Artisti"
+
+msgid "mp_me_clear_cp"
+msgstr "Cancella riproduzione in corso"
+
+msgid "mp_me_delete"
+msgstr "Elimina"
+
+msgid "mp_me_delete_from_cp"
+msgstr "Elimina da riproduzione in corso"
+
+msgid "mp_me_delete_from_playlist"
+msgstr "Elimina da playlist"
+
+msgid "mp_me_delete_playlist"
+msgstr "Elimina la playlist"
+
+msgid "mp_me_delete_songs"
+msgstr "Elimina i brani"
+
+msgid "mp_me_edit_radio"
+msgstr "Modifica"
+
+msgid "mp_me_edit_video"
+msgstr "Modifica"
+
+msgid "mp_me_filtering_by_cat"
+msgstr "Categoria"
+
+msgid "mp_me_filtering_by_date"
+msgstr "Data"
+
+msgid "mp_me_fm"
+msgstr "Trasmettitore FM"
+
+msgid "mp_me_genres"
+msgstr "Generi"
+
+msgid "mp_me_mafw_plugins"
+msgstr "Plug-in"
+
+msgid "mp_me_mediaplayer_home_applet"
+msgstr "Multimedia"
+
+msgid "mp_me_playlists"
+msgstr "Playlist"
+
+msgid "mp_me_save_cp"
+msgstr "Salva questa playlist"
+
+msgid "mp_me_set_ringtone"
+msgstr "Imposta come suoneria"
+
+msgid "mp_nc_clear_cp"
+msgstr "Cancellare tutti i brani dalla riproduzione in corso?"
+
+msgid "mp_nc_delete_all"
+msgstr "Eliminare tutti gli elementi visualizzati nella vista?"
+
+msgid "mp_nc_delete_current_playlist"
+msgstr "Eliminare dal dispositivo questa playlist?"
+
+msgid "mp_nc_delete_playlist"
+msgstr "Eliminare la playlist selezionata dal dispositivo?"
+
+msgid "mp_nc_delete_selected"
+msgstr "Eliminare l'elemento selezionato dal dispositivo?"
+
+msgid "mp_nc_replace_bookmark%s"
+msgstr ""
+"Nome '%s' già in uso.\n"
+"Sostituire il preferito esistente?"
+
+msgid "mp_nc_replace_playlist%s"
+msgstr "%s è già in uso. Sostituire la playlist esistente?"
+
+msgid "mp_ni_corrupt_playlist"
+msgstr ""
+"Impossibile aprire.\n"
+"Playlist danneggiata."
+
+msgid "mp_ni_tracker_indexing"
+msgstr ""
+"Recupero di informazioni sui nuovi file multimediali.\n"
+"Tempo rimanente stimato: %s"
+
+msgid "mp_ni_unable_to_perform"
+msgstr "Impossibile eseguire l'operazione"
+
+msgid "mp_ni_unsupported_video_codec"
+msgstr ""
+"Impossibile riprodurre il file multimediale.\n"
+"Codec video non supportato."
+
+msgid "mp_ni_unsupported_videoreso"
+msgstr ""
+"Impossibile riprodurre il file multimediale.\n"
+"Risoluzione del video non supportata."
+
+msgid "mp_pb_buffering"
+msgstr "Caricamento"
+
+msgid "mp_pb_connecting"
+msgstr "Connessione in corso"
+
+msgid "mp_ti_addradio"
+msgstr "Aggiungi la radio preferita"
+
+msgid "mp_ti_addvideo"
+msgstr "Aggiungi il video come preferito"
+
+msgid "mp_ti_all_albums"
+msgstr "Album"
+
+msgid "mp_ti_all_songs"
+msgstr "Brani"
+
+msgid "mp_ti_artists"
+msgstr "Artisti"
+
+msgid "mp_ti_edit_radio"
+msgstr "Modifica la radio preferita"
+
+msgid "mp_ti_edit_video"
+msgstr "Modifica il video preferito"
+
+msgid "mp_ti_genres"
+msgstr "Generi"
+
+msgid "mp_ti_launch_first"
+msgstr "Avvia"
+
+msgid "mp_ti_launch_second"
+msgstr "Multimedia"
+
+msgid "mp_ti_mafw_plugins"
+msgstr "Plug-in"
+
+msgid "mp_ti_mp"
+msgstr "Multimedia"
+
+msgid "mp_ti_name"
+msgstr "Multimedia"
+
+msgid "mp_ti_now_playing"
+msgstr "Riproduzione in corso"
+
+msgid "mp_ti_playlist_automatic"
+msgstr "Playlist automatiche"
+
+msgid "mp_ti_playlist_imported"
+msgstr "Importate"
+
+msgid "mp_ti_playlist_saved"
+msgstr "Salvate"
+
+msgid "mp_ti_playlists"
+msgstr "Playlist"
+
+msgid "mp_ti_radio_library"
+msgstr "Stazioni radio Internet"
+
+msgid "mp_ti_save_playlist"
+msgstr "Salva questa playlist"
+
+msgid "mp_ti_server_root"
+msgstr "%s"
+
+msgid "mp_ti_server_root_no"
+msgstr "Server multimediale"
+
+msgid "mp_ti_server_sub"
+msgstr "%s"
+
+msgid "mp_ti_upnp_servers"
+msgstr "Server UPnP"
+
+msgid "mp_ti_videos_bookmarks"
+msgstr "Video preferiti"
+
+msgid "mp_ti_videos_cat"
+msgstr "Video - categorie"
+
+msgid "mp_ti_videos_latest"
+msgstr "Video - più recenti"
+
+msgid "mp_ti_videos_movies"
+msgstr "Film"
+
+msgid "mp_ti_videos_recorded"
+msgstr "Registrati dalla videocamera del dispositivo"
