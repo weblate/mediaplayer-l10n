@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: mediaplayer 20091130134223\n"
-"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2009.11.30 13:42+0200\n"
 "PO-Revision-Date: 2009.11.30 13:42+0200\n"
 "Last-Translator:\n"
