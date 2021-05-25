@@ -1,0 +1,434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mediaplayer 20091013120337\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-05-29 16:23+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "mp_ap_name"
+msgstr "Medya oynatıcı"
+
+msgid "mp_bd_label_clip%d"
+msgid_plural "mp_bd_label_clips%d"
+msgstr[0] "%d klip"
+msgstr[1] "%d klip"
+
+msgid "mp_bd_label_hour%s"
+msgid_plural "mp_bd_label_hours%s"
+msgstr[0] "%s saat"
+msgstr[1] "%s saat"
+
+msgid "mp_bd_label_min%s"
+msgid_plural "mp_bd_label_minutes%s"
+msgstr[0] "%s dakika"
+msgstr[1] "%s dakika"
+
+msgid "mp_bd_label_playlist%d"
+msgid_plural "mp_bd_label_playlists%d"
+msgstr[0] "%d çalma listesi"
+msgstr[1] "%d çalma listesi"
+
+msgid "mp_bd_label_sec%s"
+msgid_plural "mp_bd_label_seconds%s"
+msgstr[0] "%s saniye"
+msgstr[1] "%s saniye"
+
+msgid "mp_bd_label_song%d"
+msgid_plural "mp_bd_label_songs%d"
+msgstr[0] "%d şarkı"
+msgstr[1] "%d şarkı"
+
+msgid "mp_bd_more"
+msgstr "Daha fazla"
+
+msgid "mp_bd_label_station%d"
+msgid_plural "mp_bd_label_stations%d"
+msgstr[0] "%d istasyon"
+msgstr[1] "%d istasyon"
+
+msgid "mp_bd_music"
+msgstr "Müzik"
+
+msgid "mp_bd_radio"
+msgstr "Internet radyosu"
+
+msgid "mp_bd_shuffle"
+msgstr "Şarkıları karıştır"
+
+msgid "mp_bd_shuffle_all"
+msgstr "Hepsini karışık çal"
+
+msgid "mp_bd_song_details%d%d"
+msgstr "%d/%d şarkı"
+
+msgid "mp_bd_video"
+msgstr "Video"
+
+msgid "mp_fi_addradio_name"
+msgstr "İsim"
+
+msgid "mp_fi_addradio_url"
+msgstr "Adres"
+
+msgid "mp_fi_addvideo_name"
+msgstr "İsim"
+
+msgid "mp_fi_addvideo_url"
+msgstr "Adres"
+
+msgid "mp_fi_save_playlist_name"
+msgstr "İsim: "
+
+msgid "mp_ib_bookmarks_empty"
+msgstr "Boş yer imi eklenemiyor"
+
+msgid "mp_ib_bookmarks_exists"
+msgstr "Akış '%s' altında zaten imli"
+
+msgid "mp_ib_clip_added_nowplay"
+msgid_plural "mp_ib_clip_added_nowplays"
+msgstr[0] "Mevcut çalma listesine %d klip eklendi"
+msgstr[1] "Mevcut çalma listesine %d klip eklendi"
+
+msgid "mp_ib_determine_stream_type"
+msgstr "Akış açılıyor"
+
+msgid "mp_ib_drm_prohibits"
+msgstr ""
+"Medya dosyası oynatılamıyor.\n"
+"Telif hakkı korumalı."
+
+msgid "mp_ib_file_not_found"
+msgstr "Medya dosyası bulunamadı"
+
+msgid "mp_ib_invalid_url"
+msgstr "Geçersiz URL"
+
+msgid "mp_ib_no_connection_internet"
+msgstr "Ağ bağlantısı yok"
+
+msgid "mp_ib_no_connection_server"
+msgstr "Sunucuya bağlantı yok"
+
+msgid "mp_ib_no_songs"
+msgstr "(şarkı yok)"
+
+msgid "mp_ib_no_videos"
+msgstr "(video yok)"
+
+msgid "mp_ib_playback_error"
+msgstr "Tekrar çalma hatası"
+
+msgid "mp_ib_refreshing_library"
+msgstr "Kütüphane yenileniyor"
+
+msgid "mp_ib_set_ringtone"
+msgstr "Seçilen sesi zil sesi yap"
+
+
+msgid "mp_ib_stream_saved"
+msgstr "Medya yerimi kaydedildi"
+
+msgid "mp_ib_unable_to_seek"
+msgstr "Akış bulunamıyor"
+
+msgid "mp_ib_unsupported_audio_codec"
+msgstr ""
+"Müzik dosyası oynatılamıyor.\n"
+"Ses kodlayıcısı desteklenmiyor."
+
+msgid "mp_ib_unsupported_format"
+msgstr ""
+"Medya dosyası oynatılamıyor.\n"
+"Medya biçimi desteklenmiyor."
+
+msgid "mp_li_album%d"
+msgid_plural "mp_li_albums%d"
+msgstr[0] "%d albüm"
+msgstr[1] "%d albüm"
+
+msgid "mp_li_artist%d"
+msgid_plural "mp_li_artists%d"
+msgstr[0] "%d sanatçı"
+msgstr[1] "%d sanatçı"
+
+msgid "mp_li_never_played"
+msgstr "Hiç çalınmayan"
+
+msgid "mp_li_no_albums"
+msgstr "(albüm yok)"
+
+msgid "mp_li_no_artists"
+msgstr "(şarkıcı yok)"
+
+msgid "mp_li_no_duration"
+msgstr "--:--"
+
+msgid "mp_li_no_genres"
+msgstr "(biçim yok)"
+
+msgid "mp_li_no_metadata"
+msgstr "Bilgi mevcut değil"
+
+msgid "mp_li_no_radio"
+msgstr "(kaydedilmiş radyo istasyonu yok)"
+
+msgid "mp_li_no_radios_suggestion"
+msgstr "Radyo istasyonu eklemek için Tarayıcı veya Görünüm menülerine gidin."
+
+msgid "mp_li_no_songs"
+msgstr "(şarkı yok)"
+
+msgid "mp_li_no_videos"
+msgstr "(video yok)"
+
+msgid "mp_li_recently_added"
+msgstr "Yeni eklenen"
+
+msgid "mp_li_recently_played"
+msgstr "Yeni çalınan"
+
+msgid "mp_li_song%d"
+msgid_plural "mp_li_songs%d"
+msgstr[0] "%d şarkı"
+msgstr[1] "%d şarkı"
+
+msgid "mp_li_top_played"
+msgstr "Sık çalınan"
+
+msgid "mp_li_unknown_album"
+msgstr "(bilinmeyen albüm)"
+
+msgid "mp_li_unknown_artist"
+msgstr "(bilinmeyen sanatçı)"
+
+msgid "mp_li_unknown_genre"
+msgstr "(bilinmeyen tarz)"
+
+msgid "mp_li_unknown_song"
+msgstr "(bilinmeyen şarkı)"
+
+msgid "mp_li_various_artists"
+msgstr "Çeşitli sanatçılar"
+
+msgid "mp_me_add_items_to_cp"
+msgstr ""
+"Öğeleri şuraya ekle\n"
+"mevcut çalma listesi"
+
+msgid "mp_me_add_radio_bookmark"
+msgstr "Radyo yer imi ekle"
+
+msgid "mp_me_add_songs_to_cp"
+msgstr ""
+"Mevcut çalma listesine \n"
+"şarkı ekle"
+
+msgid "mp_me_add_to_cp"
+msgstr "Mevcut listeye ekle"
+
+msgid "mp_me_all_albums"
+msgstr "Tüm albümler"
+
+msgid "mp_me_all_songs"
+msgstr "Tüm şarkılar"
+
+msgid "mp_me_artists"
+msgstr "Sanatçılar"
+
+msgid "mp_me_clear_cp"
+msgstr "Çalma listesini temizle"
+
+msgid "mp_me_delete"
+msgstr "Sil"
+
+msgid "mp_me_delete_from_cp"
+msgstr "Şimdi oynatılanlardan sil"
+
+msgid "mp_me_delete_from_playlist"
+msgstr "Çalma listesinden sil"
+
+msgid "mp_me_delete_playlist"
+msgstr "Çalma listesini sil"
+
+msgid "mp_me_delete_songs"
+msgstr "Şarkıları sil"
+
+msgid "mp_me_edit_radio"
+msgstr "Düzenle"
+
+msgid "mp_me_edit_video"
+msgstr "Düzenle"
+
+msgid "mp_me_filtering_by_cat"
+msgstr "Kategori"
+
+msgid "mp_me_filtering_by_date"
+msgstr "Tarih"
+
+msgid "mp_me_fm"
+msgstr "FM vericisi"
+
+msgid "mp_me_genres"
+msgstr "Tarzlar"
+
+msgid "mp_me_mafw_plugins"
+msgstr "Eklentiler"
+
+msgid "mp_me_mediaplayer_home_applet"
+msgstr "Medya oynatıcı"
+
+msgid "mp_me_playlists"
+msgstr "Çalma listesi"
+
+msgid "mp_me_save_cp"
+msgstr "Çalma listesini kaydet"
+
+msgid "mp_me_set_ringtone"
+msgstr "Zil sesi yap"
+
+msgid "mp_nc_clear_cp"
+msgstr "Bütün şarkıları çalma listesinden çıkar?"
+
+msgid "mp_nc_delete_all"
+msgstr "Gösterilen bütün öğeleri sil?"
+
+msgid "mp_nc_delete_current_playlist"
+msgstr "Kullanılan çalma listesini cihazdan sil?"
+
+msgid "mp_nc_delete_playlist"
+msgstr "Seçilen çalma listesini cihazdan sil?"
+
+msgid "mp_nc_delete_selected"
+msgstr "Seçilen öğeleri cihazdan sil?"
+
+msgid "mp_nc_replace_bookmark%s"
+msgstr ""
+"'%s' ismi kullanımda.\n"
+"Varolan yeriminin yerini alsın mı?"
+
+msgid "mp_nc_replace_playlist%s"
+msgstr "%s ismi kullanımda. Varolan çalma listesinin yerini alsın mı?"
+
+msgid "mp_ni_corrupt_playlist"
+msgstr ""
+"Açılamıyor.\n"
+"Çalma listesi bozulmuş."
+
+msgid "mp_ni_tracker_indexing"
+msgstr ""
+"Yeni medya dosyalarının bilgileri alınıyor.\n"
+"Tahmini kalan süre: %s"
+
+msgid "mp_ni_unable_to_perform"
+msgstr "İşlem yapılamıyor"
+
+msgid "mp_ni_unsupported_video_codec"
+msgstr ""
+"Medya oynatılamıyor.\n"
+"Video kodlayıcısı desteklenmiyor."
+
+msgid "mp_ni_unsupported_videoreso"
+msgstr ""
+"Medya oynatılamıyor.\n"
+"Video çözünürlüğü desteklenmiyor."
+
+msgid "mp_pb_buffering"
+msgstr "Tamponlanıyor"
+
+msgid "mp_pb_connecting"
+msgstr "Bağlanılıyor"
+
+msgid "mp_ti_addradio"
+msgstr "Radyo yer imi ekle"
+
+msgid "mp_ti_addvideo"
+msgstr "Video yer imi ekle"
+
+msgid "mp_ti_all_albums"
+msgstr "Albümler"
+
+msgid "mp_ti_all_songs"
+msgstr "Şarkılar"
+
+msgid "mp_ti_artists"
+msgstr "Sanatçılar"
+
+msgid "mp_ti_edit_radio"
+msgstr "Radyo yer imi düzenle"
+
+msgid "mp_ti_edit_video"
+msgstr "Video yer imi düzenle"
+
+msgid "mp_ti_genres"
+msgstr "Tarzlar"
+
+msgid "mp_ti_launch_first"
+msgstr "Başlat"
+
+msgid "mp_ti_launch_second"
+msgstr "Medya oynatıcı"
+
+msgid "mp_ti_mafw_plugins"
+msgstr "Eklentiler"
+
+msgid "mp_ti_mp"
+msgstr "Medya oynatıcı"
+
+msgid "mp_ti_name"
+msgstr "Medya oynatıcı"
+
+msgid "mp_ti_now_playing"
+msgstr "Şimdi oynatılıyor"
+
+msgid "mp_ti_playlist_automatic"
+msgstr "Otomatik çalma listeleri"
+
+msgid "mp_ti_playlist_imported"
+msgstr "Alındı"
+
+msgid "mp_ti_playlist_saved"
+msgstr "Kaydedildi"
+
+msgid "mp_ti_playlists"
+msgstr "Çalma listesi"
+
+msgid "mp_ti_radio_library"
+msgstr "Internet radyo istasyonları"
+
+msgid "mp_ti_save_playlist"
+msgstr "Çalma listesini kaydet"
+
+msgid "mp_ti_server_root"
+msgstr "%s"
+
+msgid "mp_ti_server_root_no"
+msgstr "Medya sunucusu"
+
+msgid "mp_ti_server_sub"
+msgstr "%s"
+
+msgid "mp_ti_upnp_servers"
+msgstr "UPnP sunucuları"
+
+msgid "mp_ti_videos_bookmarks"
+msgstr "Video yer imleri"
+
+msgid "mp_ti_videos_cat"
+msgstr "Videolar - kategoriler"
+
+msgid "mp_ti_videos_latest"
+msgstr "Videolar - en yeniler"
+
+msgid "mp_ti_videos_movies"
+msgstr "Filmler"
+
+msgid "mp_ti_videos_recorded"
+msgstr "Cihaz kamerasıyla kaydedilenler"
+
