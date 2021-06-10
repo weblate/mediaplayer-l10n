@@ -1,0 +1,404 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2012-05-30 14:24+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_HK\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "mp_ap_name"
+msgstr "媒體播放器"
+
+msgid "mp_bd_label_clip%d"
+msgid_plural "mp_bd_label_clips%d"
+msgstr[0] "%d 個媒體檔案"
+
+msgid "mp_bd_label_hour%s"
+msgid_plural "mp_bd_label_hours%s"
+msgstr[0] "%s 小時"
+
+msgid "mp_bd_label_min%s"
+msgid_plural "mp_bd_label_minutes%s"
+msgstr[0] "%s 分鐘"
+
+msgid "mp_bd_label_playlist%d"
+msgid_plural "mp_bd_label_playlists%d"
+msgstr[0] "%d 張播放清單"
+
+msgid "mp_bd_label_sec%s"
+msgid_plural "mp_bd_label_seconds%s"
+msgstr[0] "%s 秒"
+
+msgid "mp_bd_label_song%d"
+msgid_plural "mp_bd_label_songs%d"
+msgstr[0] "%d 首歌曲"
+
+msgid "mp_bd_label_station%d"
+msgid_plural "mp_bd_label_stations%d"
+msgstr[0] "%d 個電台"
+
+msgid "mp_bd_more"
+msgstr "更多"
+
+msgid "mp_bd_music"
+msgstr "音樂"
+
+msgid "mp_bd_radio"
+msgstr "互聯網收音機"
+
+msgid "mp_bd_shuffle"
+msgstr "隨機播放歌曲"
+
+msgid "mp_bd_shuffle_all"
+msgstr "隨機播放所有歌曲"
+
+msgid "mp_bd_song_details%d%d"
+msgstr "%d/%d 首歌曲"
+
+msgid "mp_bd_video"
+msgstr "影片"
+
+msgid "mp_fi_addradio_name"
+msgstr "名稱"
+
+msgid "mp_fi_addradio_url"
+msgstr "網址"
+
+msgid "mp_fi_addvideo_name"
+msgstr "名稱"
+
+msgid "mp_fi_addvideo_url"
+msgstr "網址"
+
+msgid "mp_fi_save_playlist_name"
+msgstr "名稱:"
+
+msgid "mp_ib_bookmarks_empty"
+msgstr "無法新增空的書籤"
+
+msgid "mp_ib_bookmarks_exists"
+msgstr "'%s' 書籤已經存在"
+
+msgid "mp_ib_clip_added_nowplay"
+msgid_plural "mp_ib_clip_added_nowplays"
+msgstr[0] "%d 個媒體檔案新增到正在播放清單"
+
+msgid "mp_ib_determine_stream_type"
+msgstr "開啟串流媒體"
+
+msgid "mp_ib_drm_prohibits"
+msgstr "無法播放媒體檔案。\n檔案受到版權權限保護。"
+
+msgid "mp_ib_file_not_found"
+msgstr "無法找到媒體檔案"
+
+msgid "mp_ib_invalid_url"
+msgstr "無效的網址"
+
+msgid "mp_ib_no_connection_internet"
+msgstr "沒有網絡連線"
+
+msgid "mp_ib_no_connection_server"
+msgstr "無法連線至伺服器"
+
+msgid "mp_ib_no_songs"
+msgstr "(沒有歌曲)"
+
+msgid "mp_ib_no_videos"
+msgstr "(沒有影片)"
+
+msgid "mp_ib_playback_error"
+msgstr "播放錯誤"
+
+msgid "mp_ib_refreshing_library"
+msgstr "重新整理媒體庫"
+
+msgid "mp_ib_set_ringtone"
+msgstr "已成功地把歌曲設定為鈴聲"
+
+msgid "mp_ib_stream_saved"
+msgstr "媒體書籤已儲存"
+
+msgid "mp_ib_unable_to_seek"
+msgstr "無法尋找串流媒體"
+
+msgid "mp_ib_unsupported_audio_codec"
+msgstr "無法播放媒體.\n音頻解碼器不支援此格式."
+
+msgid "mp_ib_unsupported_format"
+msgstr "無法播放媒體.\n不支援的媒體檔案格式."
+
+msgid "mp_li_album%d"
+msgid_plural "mp_li_albums%d"
+msgstr[0] "%d 張專輯"
+
+msgid "mp_li_artist%d"
+msgid_plural "mp_li_artists%d"
+msgstr[0] "%d 位演出者"
+
+msgid "mp_li_never_played"
+msgstr "從未播放"
+
+msgid "mp_li_no_albums"
+msgstr "(沒有專輯)"
+
+msgid "mp_li_no_artists"
+msgstr "(沒有演出者)"
+
+msgid "mp_li_no_duration"
+msgstr "--:--"
+
+msgid "mp_li_no_genres"
+msgstr "(沒有可知類型)"
+
+msgid "mp_li_no_metadata"
+msgstr "資料不可用"
+
+msgid "mp_li_no_radio"
+msgstr "(沒有已儲存的電台)"
+
+msgid "mp_li_no_radios_suggestion"
+msgstr "要新增電台,請使到瀏覽器或檢視清單。"
+
+msgid "mp_li_no_songs"
+msgstr "(沒有歌曲)"
+
+msgid "mp_li_no_videos"
+msgstr "(沒有影片)"
+
+msgid "mp_li_recently_added"
+msgstr "最近新增"
+
+msgid "mp_li_recently_played"
+msgstr "最近播放"
+
+msgid "mp_li_song%d"
+msgid_plural "mp_li_songs%d"
+msgstr[0] "%d 首歌曲"
+
+msgid "mp_li_top_played"
+msgstr "最常播放"
+
+msgid "mp_li_unknown_album"
+msgstr "(未知專輯)"
+
+msgid "mp_li_unknown_artist"
+msgstr "(未知演出者)"
+
+msgid "mp_li_unknown_genre"
+msgstr "(未知類型)"
+
+msgid "mp_li_unknown_song"
+msgstr "(未知歌曲)"
+
+msgid "mp_li_various_artists"
+msgstr "各類演出者"
+
+msgid "mp_me_add_items_to_cp"
+msgstr "新增項目到\n正在播放清單"
+
+msgid "mp_me_add_radio_bookmark"
+msgstr "新增電台書籤"
+
+msgid "mp_me_add_songs_to_cp"
+msgstr "新增歌曲到\n正在播放清單"
+
+msgid "mp_me_add_to_cp"
+msgstr "新增到正在播放清單"
+
+msgid "mp_me_all_albums"
+msgstr "所有專輯"
+
+msgid "mp_me_all_songs"
+msgstr "所有歌曲"
+
+msgid "mp_me_artists"
+msgstr "演出者"
+
+msgid "mp_me_clear_cp"
+msgstr "清除正在播放清單"
+
+msgid "mp_me_delete"
+msgstr "刪除"
+
+msgid "mp_me_delete_from_cp"
+msgstr "從正在播放清單中刪除"
+
+msgid "mp_me_delete_from_playlist"
+msgstr "從播放清單中刪除"
+
+msgid "mp_me_delete_playlist"
+msgstr "刪除播放清單"
+
+msgid "mp_me_delete_songs"
+msgstr "刪除歌曲"
+
+msgid "mp_me_edit_radio"
+msgstr "編輯"
+
+msgid "mp_me_edit_video"
+msgstr "編輯"
+
+msgid "mp_me_filtering_by_cat"
+msgstr "分類"
+
+msgid "mp_me_filtering_by_date"
+msgstr "日期"
+
+msgid "mp_me_fm"
+msgstr "FM發射器"
+
+msgid "mp_me_genres"
+msgstr "類型"
+
+msgid "mp_me_mafw_plugins"
+msgstr "附加元件"
+
+msgid "mp_me_mediaplayer_home_applet"
+msgstr "媒體播放器"
+
+msgid "mp_me_playlists"
+msgstr "播放清單"
+
+msgid "mp_me_save_cp"
+msgstr "儲存播放清單"
+
+msgid "mp_me_set_ringtone"
+msgstr "設定為鈴聲"
+
+msgid "mp_nc_clear_cp"
+msgstr "從正在播放清單清除所有歌曲"
+
+msgid "mp_nc_delete_all"
+msgstr "刪除檢視顯示內的所有項目?"
+
+msgid "mp_nc_delete_current_playlist"
+msgstr "從裝置刪除目前開啟的播放清單?"
+
+msgid "mp_nc_delete_playlist"
+msgstr "從裝置刪除選定的播放清單?"
+
+msgid "mp_nc_delete_selected"
+msgstr "從裝置刪除選定的項目?"
+
+msgid "mp_nc_replace_bookmark%s"
+msgstr "名稱'%s'已存在。要替換現有的書籤?"
+
+msgid "mp_nc_replace_playlist%s"
+msgstr "名稱 %s 正在被使用。要替換現有的播放清單?"
+
+msgid "mp_ni_corrupt_playlist"
+msgstr "無法開啟.\n播放清單已損壞."
+
+msgid "mp_ni_tracker_indexing"
+msgstr "正在檢索新媒體檔案的資訊。\n估計剩餘時間:"
+
+msgid "mp_ni_unable_to_perform"
+msgstr "無法執行操作"
+
+msgid "mp_ni_unsupported_video_codec"
+msgstr "無法播放媒體檔案.\n影片解碼器不支援."
+
+msgid "mp_ni_unsupported_videoreso"
+msgstr "無法播放媒體檔案.\n影片解像度不支援."
+
+msgid "mp_pb_buffering"
+msgstr "緩衝中"
+
+msgid "mp_pb_connecting"
+msgstr "連接中"
+
+msgid "mp_ti_addradio"
+msgstr "新增電台書籤"
+
+msgid "mp_ti_addvideo"
+msgstr "新增影片書籤"
+
+msgid "mp_ti_all_albums"
+msgstr "專輯"
+
+msgid "mp_ti_all_songs"
+msgstr "歌曲"
+
+msgid "mp_ti_artists"
+msgstr "演出者"
+
+msgid "mp_ti_edit_radio"
+msgstr "編輯電台書籤"
+
+msgid "mp_ti_edit_video"
+msgstr "編輯影片書籤"
+
+msgid "mp_ti_genres"
+msgstr "類別"
+
+msgid "mp_ti_launch_first"
+msgstr "啟動"
+
+msgid "mp_ti_launch_second"
+msgstr "媒體播放器"
+
+msgid "mp_ti_mafw_plugins"
+msgstr "附加元件"
+
+msgid "mp_ti_mp"
+msgstr "媒體播放器"
+
+msgid "mp_ti_name"
+msgstr "媒體播放器"
+
+msgid "mp_ti_now_playing"
+msgstr "正在播放"
+
+msgid "mp_ti_playlist_automatic"
+msgstr "自動播放"
+
+msgid "mp_ti_playlist_imported"
+msgstr "匯入"
+
+msgid "mp_ti_playlist_saved"
+msgstr "已儲存"
+
+msgid "mp_ti_playlists"
+msgstr "播放清單"
+
+msgid "mp_ti_radio_library"
+msgstr "網絡電台"
+
+msgid "mp_ti_save_playlist"
+msgstr "儲存播放清單"
+
+msgid "mp_ti_server_root"
+msgstr "%s"
+
+msgid "mp_ti_server_root_no"
+msgstr "媒體伺服器"
+
+msgid "mp_ti_server_sub"
+msgstr "%s"
+
+msgid "mp_ti_upnp_servers"
+msgstr "UPnP 伺服器"
+
+msgid "mp_ti_videos_bookmarks"
+msgstr "影片書籤"
+
+msgid "mp_ti_videos_cat"
+msgstr "影片 - 分類"
+
+msgid "mp_ti_videos_latest"
+msgstr "影片 - 最新"
+
+msgid "mp_ti_videos_movies"
+msgstr "電影"
+
+msgid "mp_ti_videos_recorded"
+msgstr "由相機錄製"
