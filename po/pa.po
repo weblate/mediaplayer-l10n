@@ -1,0 +1,415 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.net/projects/p/n900-extra-translations/language/pa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pa\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "mp_ap_name"
+msgstr "ਮੀਡਿਆ ਪਲੇਅਰ"
+
+msgid "mp_bd_label_clip%d"
+msgid_plural "mp_bd_label_clips%d"
+msgstr[0] "%d ਕਲਿੱਪ"
+msgstr[1] "%d ਕਲਿੱਪ"
+
+msgid "mp_bd_label_hour%s"
+msgid_plural "mp_bd_label_hours%s"
+msgstr[0] "%s ਘੰਟਾ"
+msgstr[1] "%s ਘੰਟੇ"
+
+msgid "mp_bd_label_min%s"
+msgid_plural "mp_bd_label_minutes%s"
+msgstr[0] "%s ਮਿੰਟ"
+msgstr[1] "%s ਮਿੰਟ"
+
+msgid "mp_bd_label_playlist%d"
+msgid_plural "mp_bd_label_playlists%d"
+msgstr[0] "%d ਪਲੇਅਲਿਸਟ"
+msgstr[1] "%d ਪਲੇਅਲਿਸਟ"
+
+msgid "mp_bd_label_sec%s"
+msgid_plural "mp_bd_label_seconds%s"
+msgstr[0] "%s ਸਕਿੰਟ"
+msgstr[1] "%s ਸਕਿੰਟ"
+
+msgid "mp_bd_label_song%d"
+msgid_plural "mp_bd_label_songs%d"
+msgstr[0] "%d ਗੀਤ"
+msgstr[1] "%d ਗੀਤ"
+
+msgid "mp_bd_label_station%d"
+msgid_plural "mp_bd_label_stations%d"
+msgstr[0] "%d ਸਟੇਸ਼ਨ"
+msgstr[1] "%d ਸਟੇਸ਼ਨ"
+
+msgid "mp_bd_more"
+msgstr "More"
+
+msgid "mp_bd_music"
+msgstr "ਸੰਗੀਤ"
+
+msgid "mp_bd_radio"
+msgstr "ਇੰਟਰਨੈੱਟ ਰੇਡੀਓ"
+
+msgid "mp_bd_shuffle"
+msgstr "ਗੀਤ ਰਲਾਓ"
+
+msgid "mp_bd_shuffle_all"
+msgstr "ਸਭ ਗੀਤ ਰਲਾਓ"
+
+msgid "mp_bd_song_details%d%d"
+msgstr "%d/%d ਸੰਗੀਤ"
+
+msgid "mp_bd_video"
+msgstr "ਵਿਡੀਓ"
+
+msgid "mp_fi_addradio_name"
+msgstr "ਨਾਂ"
+
+msgid "mp_fi_addradio_url"
+msgstr "ਵੈੱਬ ਐਡਰੈੱਸ"
+
+msgid "mp_fi_addvideo_name"
+msgstr "ਨਾਂ"
+
+msgid "mp_fi_addvideo_url"
+msgstr "ਵੈੱਬ ਐਡਰੈੱਸ"
+
+msgid "mp_fi_save_playlist_name"
+msgstr "ਨਾਂ"
+
+msgid "mp_ib_bookmarks_empty"
+msgstr "ਖਾਲੀ ਬੁੱਕਮਾਰਕ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "mp_ib_bookmarks_exists"
+msgstr "ਸਟਰੀਮ ਪਹਿਲਾਂ ਹੀ '%s' ਰਾਹੀਂ ਬੁੱਕਮਾਰਕ ਕੀਤੀ ਹੈ"
+
+msgid "mp_ib_clip_added_nowplay"
+msgid_plural "mp_ib_clip_added_nowplays"
+msgstr[0] "%d ਕਲਿੱਪ ਤੁਹਾਡੀ ਪਲੇਅਲਿਸਟ 'ਚ ਸ਼ਾਮਲ ਕੀਤਾ"
+msgstr[1] "%d ਕਲਿੱਪ ਤੁਹਾਡੀ ਮੌਜੂਦਾ ਪਲੇਅਲਿਸਟ 'ਚ ਸ਼ਾਮਲ ਕੀਤੇ"
+
+msgid "mp_ib_determine_stream_type"
+msgstr "ਸਟਰੀਮ ਖੋਲ੍ਹੀ ਜਾ ਰਹੀ ਹੈ"
+
+msgid "mp_ib_drm_prohibits"
+msgstr "ਮੀਡਿਆ ਫਾਇਲ ਚਲਾਉਣ ਲਈ ਅਸਮਰੱਥ ਹੈ।\nਕਾਪੀਰਾਈਟ ਸੁਰੱਖਿਅਤ ਹੈ।"
+
+msgid "mp_ib_file_not_found"
+msgstr "ਮੀਡਿਆ ਫਾਇਲ ਖੋਲ੍ਹਣ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "mp_ib_invalid_url"
+msgstr "ਗਲਤ URL"
+
+msgid "mp_ib_no_connection_internet"
+msgstr "ਕੋਈ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ"
+
+msgid "mp_ib_no_connection_server"
+msgstr "ਸਰਵਰ ਨਾਲ ਕੋਈ ਕੁਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ"
+
+msgid "mp_ib_no_songs"
+msgstr "(ਕੋਈ ਗੀਤ ਨਹੀਂ)"
+
+msgid "mp_ib_no_videos"
+msgstr "(ਕੋਈ ਵਿਡੀਓ ਨਹੀਂ)"
+
+msgid "mp_ib_playback_error"
+msgstr "ਪਲੇਅਬੈਕ ਗਲਤੀ"
+
+msgid "mp_ib_refreshing_library"
+msgstr "ਲਾਇਬਰੇਰੀ ਤਾਜ਼ਾ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ"
+
+msgid "mp_ib_set_ringtone"
+msgstr "ਚੁਣੀ ਗੀਤ ਰਿੰਗ-ਟੋਨ ਵਜੋਂ ਸੈੱਟ ਕਰੋ"
+
+msgid "mp_ib_stream_saved"
+msgstr "ਮੀਡਿਆ ਬੁੱਕਮਾਰਕ ਸੰਭਾਲਿਆ"
+
+msgid "mp_ib_unable_to_seek"
+msgstr "Unable to seek stream"
+
+msgid "mp_ib_unsupported_audio_codec"
+msgstr "Unable to play media.\nAudio codec not supported."
+
+msgid "mp_ib_unsupported_format"
+msgstr "Unable to play media.\nMedia format not supported."
+
+msgid "mp_li_album%d"
+msgid_plural "mp_li_albums%d"
+msgstr[0] "%d ਐਲਬਮ"
+msgstr[1] "%d ਐਲਬਮ"
+
+msgid "mp_li_artist%d"
+msgid_plural "mp_li_artists%d"
+msgstr[0] "%d ਕਲਾਕਾਰ"
+msgstr[1] "%d ਕਲਾਕਾਰ"
+
+msgid "mp_li_never_played"
+msgstr "ਕਦੇ ਨਾ ਚਲਾਏ"
+
+msgid "mp_li_no_albums"
+msgstr "(ਐਲਬਮ ਨਹੀਂ)"
+
+msgid "mp_li_no_artists"
+msgstr "(ਕਲਾਕਾਰ ਨਹੀਂ)"
+
+msgid "mp_li_no_duration"
+msgstr "--:--"
+
+msgid "mp_li_no_genres"
+msgstr "(no genres)"
+
+msgid "mp_li_no_metadata"
+msgstr "ਜਾਣਕਾਰੀ ਉਪਲੱਬਧ ਨਹੀਂ"
+
+msgid "mp_li_no_radio"
+msgstr "(ਕੋਈ ਸੰਭਾਲਿਆ ਰੇਡੀਓ ਸਟੇਸ਼ਨ ਨਹੀਂ)"
+
+msgid "mp_li_no_radios_suggestion"
+msgstr "To add stations, go to the Browser or View menu."
+
+msgid "mp_li_no_songs"
+msgstr "(ਗੀਤ ਨਹੀਂ)"
+
+msgid "mp_li_no_videos"
+msgstr "(ਵਿਡੀਓ ਨਹੀਂ)"
+
+msgid "mp_li_recently_added"
+msgstr "ਤਾਜ਼ਾ ਜੋੜ੍ਹੇ"
+
+msgid "mp_li_recently_played"
+msgstr "ਤਾਜ਼ਾ ਚਲਾਏ"
+
+msgid "mp_li_song%d"
+msgid_plural "mp_li_songs%d"
+msgstr[0] "%d ਗੀਤ"
+msgstr[1] "%d ਗੀਤ"
+
+msgid "mp_li_top_played"
+msgstr "ਸਭ ਤੋਂ ਵੱਧ ਚਲਾਏ"
+
+msgid "mp_li_unknown_album"
+msgstr "(ਅਣਜਾਣ ਐਲਬਮ)"
+
+msgid "mp_li_unknown_artist"
+msgstr "(ਅਣਜਾਣ ਕਲਾਕਾਰ)"
+
+msgid "mp_li_unknown_genre"
+msgstr "(unknown genre)"
+
+msgid "mp_li_unknown_song"
+msgstr "(ਅਣਜਾਣ ਗੀਤ)"
+
+msgid "mp_li_various_artists"
+msgstr "ਕਈ ਕਲਾਕਾਰ"
+
+msgid "mp_me_add_items_to_cp"
+msgstr "ਆਈਟਮਾਂ ਨੂੰ ਮੌਜੂਦਾ ਪਲੇਅਲਿਸਟ 'ਚ\nਜੋੜ੍ਹੋ"
+
+msgid "mp_me_add_radio_bookmark"
+msgstr "ਰੇਡੀਆ ਬੁੱਕਮਾਰਕ ਜੋੜ੍ਹੋ"
+
+msgid "mp_me_add_songs_to_cp"
+msgstr "ਗੀਤ ਮੌਜੂਦਾ\nਪਲੇਅਲਿਸਟ 'ਚ ਜੋੜ੍ਹੋ"
+
+msgid "mp_me_add_to_cp"
+msgstr "ਮੌਜੂਦਾ ਪਲੇਅਲਿਸਟ 'ਚ ਜੋੜ੍ਹੋ"
+
+msgid "mp_me_all_albums"
+msgstr "ਸਭ ਐਲਬਮ"
+
+msgid "mp_me_all_songs"
+msgstr "ਸਭ ਗੀਤ"
+
+msgid "mp_me_artists"
+msgstr "ਕਲਾਕਾਰ"
+
+msgid "mp_me_clear_cp"
+msgstr "ਮੌਜੂਦਾ ਪਲੇਅਲਿਸਟ ਸਾਫ਼ ਕਰੋ"
+
+msgid "mp_me_delete"
+msgstr "ਹਟਾਓ"
+
+msgid "mp_me_delete_from_cp"
+msgstr "Delete from now playing"
+
+msgid "mp_me_delete_from_playlist"
+msgstr "Delete from playlist"
+
+msgid "mp_me_delete_playlist"
+msgstr "ਪਲੇਅਲਿਸਟ ਹਟਾਓ"
+
+msgid "mp_me_delete_songs"
+msgstr "ਗੀਤ ਹਟਾਓ"
+
+msgid "mp_me_edit_radio"
+msgstr "ਸੋਧ"
+
+msgid "mp_me_edit_video"
+msgstr "ਸੋਧ"
+
+msgid "mp_me_filtering_by_cat"
+msgstr "ਕੈਟਾਗਰੀ"
+
+msgid "mp_me_filtering_by_date"
+msgstr "ਮਿਤੀ"
+
+msgid "mp_me_fm"
+msgstr "FM ਟਰਾਂਸਮਿਸ਼ਨ"
+
+msgid "mp_me_genres"
+msgstr "Genres"
+
+msgid "mp_me_mafw_plugins"
+msgstr "Plug-ins"
+
+msgid "mp_me_mediaplayer_home_applet"
+msgstr "ਮੀਡਿਆ ਪਲੇਅਰ"
+
+msgid "mp_me_playlists"
+msgstr "ਪਲੇਅਲਿਸਟ"
+
+msgid "mp_me_save_cp"
+msgstr "ਪਲੇਅਲਿਸਟ ਸੰਭਾਲੋ"
+
+msgid "mp_me_set_ringtone"
+msgstr "ਰਿੰਗ ਟੋਨ ਵਜੋਂ ਸੈੱਟ ਕਰੋ"
+
+msgid "mp_nc_clear_cp"
+msgstr "Clear all songs from current playlist?"
+
+msgid "mp_nc_delete_all"
+msgstr "Delete all items shown in view?"
+
+msgid "mp_nc_delete_current_playlist"
+msgstr "Delete currently open playlist from device?"
+
+msgid "mp_nc_delete_playlist"
+msgstr "Delete selected playlist from device?"
+
+msgid "mp_nc_delete_selected"
+msgstr "Delete selected item from device?"
+
+msgid "mp_nc_replace_bookmark%s"
+msgstr "Name '%s' already in use.\nReplace existing bookmark?"
+
+msgid "mp_nc_replace_playlist%s"
+msgstr "Name %s already in use. Replace existing playlist?"
+
+msgid "mp_ni_corrupt_playlist"
+msgstr "Unable to open.\nPlaylist corrupted."
+
+msgid "mp_ni_tracker_indexing"
+msgstr "Retrieving information on the new media files.\nEstimated time remaining: %s"
+
+msgid "mp_ni_unable_to_perform"
+msgstr "Unable to perform operation"
+
+msgid "mp_ni_unsupported_video_codec"
+msgstr "Unable to play media.\nVideo codec not supported."
+
+msgid "mp_ni_unsupported_videoreso"
+msgstr "Unable to play media.\nVideo resolution not supported."
+
+msgid "mp_pb_buffering"
+msgstr "ਬਫ਼ਰ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "mp_pb_connecting"
+msgstr "ਕੁਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "mp_ti_addradio"
+msgstr "ਰੇਡੀਓ ਬੁੱਕਮਾਰਕ ਸ਼ਾਮਲ"
+
+msgid "mp_ti_addvideo"
+msgstr "ਵਿਡੀਓ ਬੁੱਕਮਾਰਕ ਸ਼ਾਮਲ"
+
+msgid "mp_ti_all_albums"
+msgstr "ਐਲਬਮ"
+
+msgid "mp_ti_all_songs"
+msgstr "ਗੀਤ"
+
+msgid "mp_ti_artists"
+msgstr "ਕਲਾਕਾਰ"
+
+msgid "mp_ti_edit_radio"
+msgstr "ਰੇਡੀਓ ਬੁੱਕਮਾਰਕ ਸੋਧ"
+
+msgid "mp_ti_edit_video"
+msgstr "ਵਿਡੀਓ ਬੁੱਕਮਾਰਕ ਸੋਧ"
+
+msgid "mp_ti_genres"
+msgstr "Genres"
+
+msgid "mp_ti_launch_first"
+msgstr "ਚਲਾਓ"
+
+msgid "mp_ti_launch_second"
+msgstr "ਮੀਡਿਆ ਪਲੇਅਰ"
+
+msgid "mp_ti_mafw_plugins"
+msgstr "Plug-ins"
+
+msgid "mp_ti_mp"
+msgstr "ਮੀਡਿਆ ਪਲੇਅਰ"
+
+msgid "mp_ti_name"
+msgstr "ਮੀਡਿਆ ਪਲੇਅਰ"
+
+msgid "mp_ti_now_playing"
+msgstr "ਹੁਣ ਚੱਲ ਰਿਹਾ ਹੈ"
+
+msgid "mp_ti_playlist_automatic"
+msgstr "ਆਟੋਮੈਟਿਕ ਪਲੇਅਲਿਸਟ"
+
+msgid "mp_ti_playlist_imported"
+msgstr "ਇੰਪੋਰਟ ਕੀਤੇ"
+
+msgid "mp_ti_playlist_saved"
+msgstr "ਸੰਭਾਲੇ"
+
+msgid "mp_ti_playlists"
+msgstr "ਪਲੇਅਲਿਸਟ"
+
+msgid "mp_ti_radio_library"
+msgstr "ਇੰਟਰਨੈੱਟ ਰੇਡੀਓ ਸਟੇਸ਼ਨ"
+
+msgid "mp_ti_save_playlist"
+msgstr "ਪਲੇਅਲਿਸਟ ਸੰਭਾਲੋ"
+
+msgid "mp_ti_server_root"
+msgstr "%s"
+
+msgid "mp_ti_server_root_no"
+msgstr "ਮੀਡਿਆ ਸਰਵਰ"
+
+msgid "mp_ti_server_sub"
+msgstr "%s"
+
+msgid "mp_ti_upnp_servers"
+msgstr "UPnP servers"
+
+msgid "mp_ti_videos_bookmarks"
+msgstr "ਵਿਡੀਓ ਬੁੱਕਮਾਰਕ"
+
+msgid "mp_ti_videos_cat"
+msgstr "ਵਿਡੀਓ - ਕੈਟਾਗਰੀਆਂ"
+
+msgid "mp_ti_videos_latest"
+msgstr "ਵਿਡੀਓ - ਤਾਜ਼ਾ"
+
+msgid "mp_ti_videos_movies"
+msgstr "ਫਿਲਮ"
+
+msgid "mp_ti_videos_recorded"
+msgstr "Recorded by device camera"
