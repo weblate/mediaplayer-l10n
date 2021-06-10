@@ -1,0 +1,415 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "mp_ap_name"
+msgstr "Музика и видео"
+
+msgid "mp_bd_label_clip%d"
+msgid_plural "mp_bd_label_clips%d"
+msgstr[0] "%d клип"
+msgstr[1] "%d клипове"
+
+msgid "mp_bd_label_hour%s"
+msgid_plural "mp_bd_label_hours%s"
+msgstr[0] "%s час"
+msgstr[1] "%s часове"
+
+msgid "mp_bd_label_min%s"
+msgid_plural "mp_bd_label_minutes%s"
+msgstr[0] "%s минута"
+msgstr[1] "%s минути"
+
+msgid "mp_bd_label_playlist%d"
+msgid_plural "mp_bd_label_playlists%d"
+msgstr[0] "%d списък"
+msgstr[1] "%d списъци"
+
+msgid "mp_bd_label_sec%s"
+msgid_plural "mp_bd_label_seconds%s"
+msgstr[0] "%s секунда"
+msgstr[1] "%s секунди"
+
+msgid "mp_bd_label_song%d"
+msgid_plural "mp_bd_label_songs%d"
+msgstr[0] "%d песен"
+msgstr[1] "%d песни"
+
+msgid "mp_bd_label_station%d"
+msgid_plural "mp_bd_label_stations%d"
+msgstr[0] "%d станция"
+msgstr[1] "%d станции"
+
+msgid "mp_bd_more"
+msgstr "Повече"
+
+msgid "mp_bd_music"
+msgstr "Музика"
+
+msgid "mp_bd_radio"
+msgstr "Интернет радио"
+
+msgid "mp_bd_shuffle"
+msgstr "Разбъркване на песните"
+
+msgid "mp_bd_shuffle_all"
+msgstr "Разбъркване"
+
+msgid "mp_bd_song_details%d%d"
+msgstr "%d/%d песни"
+
+msgid "mp_bd_video"
+msgstr "Видео"
+
+msgid "mp_fi_addradio_name"
+msgstr "Име"
+
+msgid "mp_fi_addradio_url"
+msgstr "Интернет адрес"
+
+msgid "mp_fi_addvideo_name"
+msgstr "Име"
+
+msgid "mp_fi_addvideo_url"
+msgstr "Интернет адрес"
+
+msgid "mp_fi_save_playlist_name"
+msgstr "Име"
+
+msgid "mp_ib_bookmarks_empty"
+msgstr "Неуспешно добавяне на празна отметка"
+
+msgid "mp_ib_bookmarks_exists"
+msgstr "Потокът вече е записан като '%s'"
+
+msgid "mp_ib_clip_added_nowplay"
+msgid_plural "mp_ib_clip_added_nowplays"
+msgstr[0] "Клипът е добавен към активния списък"
+msgstr[1] "%d клипове са добавени към активния списък"
+
+msgid "mp_ib_determine_stream_type"
+msgstr "Зареждане на потока"
+
+msgid "mp_ib_drm_prohibits"
+msgstr "Неуспешно възпроизвеждане на медийния файл.\nЗащитен с авторски права."
+
+msgid "mp_ib_file_not_found"
+msgstr "Не може да бъде намерен медийния файл"
+
+msgid "mp_ib_invalid_url"
+msgstr "Неправилен интернет адрес"
+
+msgid "mp_ib_no_connection_internet"
+msgstr "Няма интернет връзка"
+
+msgid "mp_ib_no_connection_server"
+msgstr "Няма връзка към сървъра"
+
+msgid "mp_ib_no_songs"
+msgstr "(няма песни)"
+
+msgid "mp_ib_no_videos"
+msgstr "(няма видео)"
+
+msgid "mp_ib_playback_error"
+msgstr "Грешка във възпроизвеждането"
+
+msgid "mp_ib_refreshing_library"
+msgstr "Обновяване на библиотеката"
+
+msgid "mp_ib_set_ringtone"
+msgstr "Избраната песен е сложена като сигнал при позвъняване"
+
+msgid "mp_ib_stream_saved"
+msgstr "Медийната отметка е запазена"
+
+msgid "mp_ib_unable_to_seek"
+msgstr "Потокът не може да бъде прескачан"
+
+msgid "mp_ib_unsupported_audio_codec"
+msgstr "Unable to play media.\nAudio codec not supported."
+
+msgid "mp_ib_unsupported_format"
+msgstr "Неуспешно възпроизвеждане на медийния файл.\nФорматът не се поддържа."
+
+msgid "mp_li_album%d"
+msgid_plural "mp_li_albums%d"
+msgstr[0] "%d албум"
+msgstr[1] "%d албуми"
+
+msgid "mp_li_artist%d"
+msgid_plural "mp_li_artists%d"
+msgstr[0] "%d изпълнител"
+msgstr[1] "%d изпълнители"
+
+msgid "mp_li_never_played"
+msgstr "Не е изпълнявано досега"
+
+msgid "mp_li_no_albums"
+msgstr "(няма албуми)"
+
+msgid "mp_li_no_artists"
+msgstr "(няма изпълнители)"
+
+msgid "mp_li_no_duration"
+msgstr "--:--"
+
+msgid "mp_li_no_genres"
+msgstr "(няма жанрове)"
+
+msgid "mp_li_no_metadata"
+msgstr "Няма информация"
+
+msgid "mp_li_no_radio"
+msgstr "(няма записани радио станции)"
+
+msgid "mp_li_no_radios_suggestion"
+msgstr "За добавяне на станции, превключете на меню Преглед или Изглед."
+
+msgid "mp_li_no_songs"
+msgstr "(няма песни)"
+
+msgid "mp_li_no_videos"
+msgstr "(няма видео)"
+
+msgid "mp_li_recently_added"
+msgstr "Наскоро добавени"
+
+msgid "mp_li_recently_played"
+msgstr "Наскоро изпълнявани"
+
+msgid "mp_li_song%d"
+msgid_plural "mp_li_songs%d"
+msgstr[0] "%d песен"
+msgstr[1] "%d песни"
+
+msgid "mp_li_top_played"
+msgstr "Най-често изпълнявани"
+
+msgid "mp_li_unknown_album"
+msgstr "(неизвестен албум)"
+
+msgid "mp_li_unknown_artist"
+msgstr "(неизвестен изпълнител)"
+
+msgid "mp_li_unknown_genre"
+msgstr "(неизвестен жанр)"
+
+msgid "mp_li_unknown_song"
+msgstr "(неизвестна песен)"
+
+msgid "mp_li_various_artists"
+msgstr "Различни изпълнители"
+
+msgid "mp_me_add_items_to_cp"
+msgstr "Добавяне на елементи\nкъм активния списък"
+
+msgid "mp_me_add_radio_bookmark"
+msgstr "Добавяне на радио"
+
+msgid "mp_me_add_songs_to_cp"
+msgstr "Добавяне на песни\nкъм активния списък"
+
+msgid "mp_me_add_to_cp"
+msgstr "Добавяне към активния списък"
+
+msgid "mp_me_all_albums"
+msgstr "Всички албуми"
+
+msgid "mp_me_all_songs"
+msgstr "Всички песни"
+
+msgid "mp_me_artists"
+msgstr "Изпълнители"
+
+msgid "mp_me_clear_cp"
+msgstr "Изчистване на списък"
+
+msgid "mp_me_delete"
+msgstr "Изтриване"
+
+msgid "mp_me_delete_from_cp"
+msgstr "Изтриване от активния списък"
+
+msgid "mp_me_delete_from_playlist"
+msgstr "Изтриване от списъка"
+
+msgid "mp_me_delete_playlist"
+msgstr "Изтриване на списък"
+
+msgid "mp_me_delete_songs"
+msgstr "Изтриване на песни"
+
+msgid "mp_me_edit_radio"
+msgstr "Редактиране"
+
+msgid "mp_me_edit_video"
+msgstr "Редактиране"
+
+msgid "mp_me_filtering_by_cat"
+msgstr "Категория"
+
+msgid "mp_me_filtering_by_date"
+msgstr "Дата"
+
+msgid "mp_me_fm"
+msgstr "Радио предавател"
+
+msgid "mp_me_genres"
+msgstr "Жанрове"
+
+msgid "mp_me_mafw_plugins"
+msgstr "Приставки"
+
+msgid "mp_me_mediaplayer_home_applet"
+msgstr "Музика и видео"
+
+msgid "mp_me_playlists"
+msgstr "Списъци"
+
+msgid "mp_me_save_cp"
+msgstr "Запазване на списък"
+
+msgid "mp_me_set_ringtone"
+msgstr "Задаване като сигнал при позвъняване"
+
+msgid "mp_nc_clear_cp"
+msgstr "Изчистване на всички песни от активния списък?"
+
+msgid "mp_nc_delete_all"
+msgstr "Изтриване на всички елементи от показания изглед?"
+
+msgid "mp_nc_delete_current_playlist"
+msgstr "Изтриване на активния списък от устройството?"
+
+msgid "mp_nc_delete_playlist"
+msgstr "Изтриване на избрания списък от устройството?"
+
+msgid "mp_nc_delete_selected"
+msgstr "Изтриване на избраният елемент от устройството?"
+
+msgid "mp_nc_replace_bookmark%s"
+msgstr "Името '%s' вече съществува.\nДа бъде ли презаписана съществуващата отметка?"
+
+msgid "mp_nc_replace_playlist%s"
+msgstr "Името %s вече съществува. Да бъде ли презаписан съществуващия списък?"
+
+msgid "mp_ni_corrupt_playlist"
+msgstr "Неуспешно зареждане.\nСписъкът е повреден."
+
+msgid "mp_ni_tracker_indexing"
+msgstr "Получаване на информация за новите медийни файлове.\nОставащо време: %s"
+
+msgid "mp_ni_unable_to_perform"
+msgstr "Операцията не може да бъде изпълнена"
+
+msgid "mp_ni_unsupported_video_codec"
+msgstr "Неуспешно възпроизвеждане на медийния файл.\nВидео форматът не се поддържа."
+
+msgid "mp_ni_unsupported_videoreso"
+msgstr "Неуспешно възпроизвеждане на медийния файл.\nРазмерът на видеото не се поддържа."
+
+msgid "mp_pb_buffering"
+msgstr "Зареждане"
+
+msgid "mp_pb_connecting"
+msgstr "Свързване"
+
+msgid "mp_ti_addradio"
+msgstr "Добавяне на радио"
+
+msgid "mp_ti_addvideo"
+msgstr "Добавяне на видео"
+
+msgid "mp_ti_all_albums"
+msgstr "Албуми"
+
+msgid "mp_ti_all_songs"
+msgstr "Песни"
+
+msgid "mp_ti_artists"
+msgstr "Изпълнители"
+
+msgid "mp_ti_edit_radio"
+msgstr "Редактиране на радио отметка"
+
+msgid "mp_ti_edit_video"
+msgstr "Редактиране на видео отметка"
+
+msgid "mp_ti_genres"
+msgstr "Жанрове"
+
+msgid "mp_ti_launch_first"
+msgstr "Стартиране"
+
+msgid "mp_ti_launch_second"
+msgstr "Музика и видео"
+
+msgid "mp_ti_mafw_plugins"
+msgstr "Приставки"
+
+msgid "mp_ti_mp"
+msgstr "Музика и видео"
+
+msgid "mp_ti_name"
+msgstr "Музика и видео"
+
+msgid "mp_ti_now_playing"
+msgstr "В момента се изпълнява"
+
+msgid "mp_ti_playlist_automatic"
+msgstr "Динамични списъци"
+
+msgid "mp_ti_playlist_imported"
+msgstr "Добавени"
+
+msgid "mp_ti_playlist_saved"
+msgstr "Запазени"
+
+msgid "mp_ti_playlists"
+msgstr "Списъци"
+
+msgid "mp_ti_radio_library"
+msgstr "Интернет радио станции"
+
+msgid "mp_ti_save_playlist"
+msgstr "Запазване на списък"
+
+msgid "mp_ti_server_root"
+msgstr "%s"
+
+msgid "mp_ti_server_root_no"
+msgstr "Медиен сървър"
+
+msgid "mp_ti_server_sub"
+msgstr "%s"
+
+msgid "mp_ti_upnp_servers"
+msgstr "UPnP сървъри"
+
+msgid "mp_ti_videos_bookmarks"
+msgstr "Видео отметки"
+
+msgid "mp_ti_videos_cat"
+msgstr "Видео - категории"
+
+msgid "mp_ti_videos_latest"
+msgstr "Видео - най-нови"
+
+msgid "mp_ti_videos_movies"
+msgstr "Филми"
+
+msgid "mp_ti_videos_recorded"
+msgstr "Записани с камерата"
