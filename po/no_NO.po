@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: mediaplayer 20091130134223\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2009.11.30 13:42+0200\n"
-"PO-Revision-Date: 2021-08-07 14:16+0000\n"
-"Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
+"PO-Revision-Date: 2021-08-09 02:32+0000\n"
+"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/"
 "maemo-leste/mediaplayer-l10n/nb_NO/>\n"
 "Language: no_NO\n"
@@ -117,7 +117,7 @@ msgid "mp_ib_no_connection_internet"
 msgstr "Ingen nettverkstilkobling"
 
 msgid "mp_ib_no_connection_server"
-msgstr "Ingen tilkobling til serveren"
+msgstr "Ingen tilkobling til tjeneren"
 
 msgid "mp_ib_no_songs"
 msgstr "(ingen sanger)"
@@ -297,27 +297,27 @@ msgid "mp_me_set_ringtone"
 msgstr "Angi som ringetone"
 
 msgid "mp_nc_clear_cp"
-msgstr "Fjerne alle sanger fra Spiller nå?"
+msgstr "Fjern alle spor fra «Spiller nå»?"
 
 msgid "mp_nc_delete_all"
-msgstr "Slette alle elementer i visningen?"
+msgstr "Slett alle elementer i visningen?"
 
 msgid "mp_nc_delete_current_playlist"
-msgstr "Slette den åpne spillelisten fra enheten?"
+msgstr "Slett den åpne spillelisten fra enheten?"
 
 msgid "mp_nc_delete_playlist"
-msgstr "Slette den valgte spillelisten fra enheten?"
+msgstr "Slett den valgte spillelisten fra enheten?"
 
 msgid "mp_nc_delete_selected"
-msgstr "Slette det valgte elementet fra enheten?"
+msgstr "Slett det valgte elementet fra enheten?"
 
 msgid "mp_nc_replace_bookmark%s"
 msgstr ""
 "Navnet %s er allerede i bruk.\n"
-"Erstatte eksisterende bokmerke?"
+"Erstatt eksisterende bokmerke?"
 
 msgid "mp_nc_replace_playlist%s"
-msgstr "Navnet %s er allerede i bruk. Erstatte eksisterende spilleliste?"
+msgstr "Navnet %s er allerede i bruk. Erstatt eksisterende spilleliste?"
 
 msgid "mp_ni_corrupt_playlist"
 msgstr ""
@@ -343,7 +343,7 @@ msgstr ""
 "Videooppløsningen støttes ikke."
 
 msgid "mp_pb_buffering"
-msgstr "Bufring"
+msgstr "Hurtiglagrer"
 
 msgid "mp_pb_connecting"
 msgstr "Kobler til"
