@@ -3,411 +3,433 @@ msgstr ""
 "Project-Id-Version: mediaplayer 20091130134223\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2009.11.30 13:42+0200\n"
-"PO-Revision-Date: 2009.11.30 13:42+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-15 04:53+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"mediaplayer-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "mp_ap_name"
-msgstr ""
+msgstr "மீடியா பிளேயர்"
 
 msgid "mp_bd_label_clip%d"
 msgid_plural "mp_bd_label_clips%d"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d கிளிப்"
+msgstr[1] "%d கிளிப்புகள்"
 
 msgid "mp_bd_label_hour%s"
 msgid_plural "mp_bd_label_hours%s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s மணி"
+msgstr[1] "%s மணி"
 
 msgid "mp_bd_label_min%s"
 msgid_plural "mp_bd_label_minutes%s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s மணித்துளி"
+msgstr[1] "%s நிமிடங்கள்"
 
 msgid "mp_bd_label_playlist%d"
 msgid_plural "mp_bd_label_playlists%d"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d பிளேலிச்ட்"
+msgstr[1] "%d பிளேலிச்ட்கள்"
 
 msgid "mp_bd_label_sec%s"
 msgid_plural "mp_bd_label_seconds%s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%இரண்டாவது"
+msgstr[1] "%வினாடிகள்"
 
 msgid "mp_bd_label_song%d"
 msgid_plural "mp_bd_label_songs%d"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d பாடல்"
+msgstr[1] "%d பாடல்கள்"
 
 msgid "mp_bd_label_station%d"
 msgid_plural "mp_bd_label_stations%d"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d நிலையம்"
+msgstr[1] "%d நிலையங்கள்"
 
 msgid "mp_bd_more"
-msgstr ""
+msgstr "மேலும்"
 
 msgid "mp_bd_music"
-msgstr ""
+msgstr "இசை"
 
 msgid "mp_bd_radio"
-msgstr ""
+msgstr "இணைய வானொலி"
 
 msgid "mp_bd_shuffle"
-msgstr ""
+msgstr "மாற்றும் பாடல்கள்"
 
 msgid "mp_bd_shuffle_all"
-msgstr ""
+msgstr "எல்லா பாடல்களையும் மாற்றவும்"
 
 msgid "mp_bd_song_details%d%d"
-msgstr ""
+msgstr "%d/%d பாடல்கள்"
 
 msgid "mp_bd_video"
-msgstr ""
+msgstr "ஒளிதோற்றம்"
 
 msgid "mp_fi_addradio_name"
-msgstr ""
+msgstr "பெயர்"
 
 msgid "mp_fi_addradio_url"
-msgstr ""
+msgstr "வலை முகவரி"
 
 msgid "mp_fi_addvideo_name"
-msgstr ""
+msgstr "பெயர்"
 
 msgid "mp_fi_addvideo_url"
-msgstr ""
+msgstr "வலை முகவரி"
 
 msgid "mp_fi_save_playlist_name"
-msgstr ""
+msgstr "பெயர் "
 
 msgid "mp_ib_bookmarks_empty"
-msgstr ""
+msgstr "வெற்று புக்மார்க்கைச் சேர்க்க முடியவில்லை"
 
 msgid "mp_ib_bookmarks_exists"
-msgstr ""
+msgstr "ச்ட்ரீம் ஏற்கனவே '%s' இன் கீழ் புக்மார்க்கு செய்யப்பட்டது"
 
 msgid "mp_ib_clip_added_nowplay"
 msgid_plural "mp_ib_clip_added_nowplays"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "இப்போது விளையாடுவதில் %d கிளிப் சேர்க்கப்பட்டது"
+msgstr[1] "இப்போது விளையாடுவதில் %d கிளிப்புகள் சேர்க்கப்படுகின்றன"
 
 msgid "mp_ib_determine_stream_type"
-msgstr ""
+msgstr "திறந்த ச்ட்ரீம்"
 
 msgid "mp_ib_drm_prohibits"
 msgstr ""
+"மீடியா கோப்பை இயக்க முடியவில்லை.\n"
+" பதிப்புரிமை பாதுகாக்கப்பட்டது."
 
 msgid "mp_ib_file_not_found"
-msgstr ""
+msgstr "மீடியா கோப்பைக் கண்டுபிடிக்க முடியவில்லை"
 
 msgid "mp_ib_invalid_url"
-msgstr ""
+msgstr "தவறான முகவரி"
 
 msgid "mp_ib_no_connection_internet"
-msgstr ""
+msgstr "பிணைய இணைப்பு இல்லை"
 
 msgid "mp_ib_no_connection_server"
-msgstr ""
+msgstr "சேவையகத்துடன் இணைப்பு இல்லை"
 
 msgid "mp_ib_no_songs"
-msgstr ""
+msgstr "(பாடல்கள் இல்லை)"
 
 msgid "mp_ib_no_videos"
-msgstr ""
+msgstr "(வீடியோக்கள் இல்லை)"
 
 msgid "mp_ib_playback_error"
-msgstr ""
+msgstr "பின்னணி பிழை"
 
 msgid "mp_ib_refreshing_library"
-msgstr ""
+msgstr "புத்துணர்ச்சியூட்டும் நூலகம்"
 
 msgid "mp_ib_set_ringtone"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட பாடல் ஒலிக்கும் தொனியாக அமைக்கப்படுகிறது"
 
 msgid "mp_ib_stream_saved"
-msgstr ""
+msgstr "மீடியா புக்மார்க்கு சேமிக்கப்பட்டது"
 
 msgid "mp_ib_unable_to_seek"
-msgstr ""
+msgstr "ச்ட்ரீம் தேட முடியவில்லை"
 
 msgid "mp_ib_unsupported_audio_codec"
 msgstr ""
+"மீடியா விளையாட முடியவில்லை.\n"
+" ஆடியோ கோடெக் ஆதரிக்கப்படவில்லை."
 
 msgid "mp_ib_unsupported_format"
 msgstr ""
+"மீடியா விளையாட முடியவில்லை.\n"
+" ஊடக வடிவம் ஆதரிக்கப்படவில்லை."
 
 msgid "mp_li_album%d"
 msgid_plural "mp_li_albums%d"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d ஆல்பம்"
+msgstr[1] "%d ஆல்பங்கள்"
 
 msgid "mp_li_artist%d"
 msgid_plural "mp_li_artists%d"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d கலைஞர்"
+msgstr[1] "%d கலைஞர்கள்"
 
 msgid "mp_li_never_played"
-msgstr ""
+msgstr "ஒருபோதும் விளையாடியதில்லை"
 
 msgid "mp_li_no_albums"
-msgstr ""
+msgstr "(ஆல்பத்திலிருந்து)"
 
 msgid "mp_li_no_artists"
-msgstr ""
+msgstr "(கலைஞர்கள் இல்லை)"
 
 msgid "mp_li_no_duration"
-msgstr ""
+msgstr "-:-"
 
 msgid "mp_li_no_genres"
-msgstr ""
+msgstr "(வகைகள் இல்லை)"
 
 msgid "mp_li_no_metadata"
-msgstr ""
+msgstr "செய்தி கிடைக்கவில்லை"
 
 msgid "mp_li_no_radio"
-msgstr ""
+msgstr "(சேமித்த வானொலி நிலையங்கள் இல்லை)"
 
 msgid "mp_li_no_radios_suggestion"
-msgstr ""
+msgstr "நிலையங்களைச் சேர்க்க, உலாவி அல்லது காண்க மெனுவுக்குச் செல்லவும்."
 
 msgid "mp_li_no_songs"
-msgstr ""
+msgstr "(பாடல்கள் இல்லை)"
 
 msgid "mp_li_no_videos"
-msgstr ""
+msgstr "(வீடியோக்கள் இல்லை)"
 
 msgid "mp_li_recently_added"
-msgstr ""
+msgstr "அண்மைக் காலத்தில் சேர்க்கப்பட்டது"
 
 msgid "mp_li_recently_played"
-msgstr ""
+msgstr "அண்மைக் காலத்தில் விளையாடியது"
 
 msgid "mp_li_song%d"
 msgid_plural "mp_li_songs%d"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d பாடல்"
+msgstr[1] "%d பாடல்கள்"
 
 msgid "mp_li_top_played"
-msgstr ""
+msgstr "அதிகம் விளையாடியது"
 
 msgid "mp_li_unknown_album"
-msgstr ""
+msgstr "(அறியப்படாத ஆல்பம்)"
 
 msgid "mp_li_unknown_artist"
-msgstr ""
+msgstr "(தெரியாத கலைஞர்)"
 
 msgid "mp_li_unknown_genre"
-msgstr ""
+msgstr "(அறியப்படாத வகை)"
 
 msgid "mp_li_unknown_song"
-msgstr ""
+msgstr "(தெரியாத பாடல்)"
 
 msgid "mp_li_various_artists"
-msgstr ""
+msgstr "பல்வேறு கலைஞர்கள்"
 
 msgid "mp_me_add_items_to_cp"
 msgstr ""
+"உருப்படிகளைச் சேர்க்கவும்\n"
+" இப்போது விளையாடுகிறது"
 
 msgid "mp_me_add_radio_bookmark"
-msgstr ""
+msgstr "ரேடியோ புக்மார்க்கு சேர்க்கவும்"
 
 msgid "mp_me_add_songs_to_cp"
 msgstr ""
+"பாடல்களைச் சேர்க்கவும்\n"
+" இப்போது விளையாடுகிறது"
 
 msgid "mp_me_add_to_cp"
-msgstr ""
+msgstr "இப்போது விளையாடுங்கள்"
 
 msgid "mp_me_all_albums"
-msgstr ""
+msgstr "அனைத்து ஆல்பங்களும்"
 
 msgid "mp_me_all_songs"
-msgstr ""
+msgstr "அனைத்து பாடல்களும்"
 
 msgid "mp_me_artists"
-msgstr ""
+msgstr "கலைஞர்கள்"
 
 msgid "mp_me_clear_cp"
-msgstr ""
+msgstr "இப்போது விளையாடுங்கள்"
 
 msgid "mp_me_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "mp_me_delete_from_cp"
-msgstr ""
+msgstr "இப்போது விளையாடுவதை நீக்கு"
 
 msgid "mp_me_delete_from_playlist"
-msgstr ""
+msgstr "பிளேலிச்ட்டில் இருந்து நீக்கு"
 
 msgid "mp_me_delete_playlist"
-msgstr ""
+msgstr "பிளேலிச்ட்டை நீக்கு"
 
 msgid "mp_me_delete_songs"
-msgstr ""
+msgstr "பாடல்களை நீக்கு"
 
 msgid "mp_me_edit_radio"
-msgstr ""
+msgstr "தொகு"
 
 msgid "mp_me_edit_video"
-msgstr ""
+msgstr "தொகு"
 
 msgid "mp_me_filtering_by_cat"
-msgstr ""
+msgstr "வகை"
 
 msgid "mp_me_filtering_by_date"
-msgstr ""
+msgstr "திகதி"
 
 msgid "mp_me_fm"
-msgstr ""
+msgstr "எஃப்எம் டிரான்ச்மிட்டர்"
 
 msgid "mp_me_genres"
-msgstr ""
+msgstr "வகைகள்"
 
 msgid "mp_me_mafw_plugins"
-msgstr ""
+msgstr "செருகுநிரல்கள்"
 
 msgid "mp_me_mediaplayer_home_applet"
-msgstr ""
+msgstr "மீடியா பிளேயர்"
 
 msgid "mp_me_playlists"
-msgstr ""
+msgstr "பிளேலிச்ட்கள்"
 
 msgid "mp_me_save_cp"
-msgstr ""
+msgstr "பிளேலிச்ட்டை சேமிக்கவும்"
 
 msgid "mp_me_set_ringtone"
-msgstr ""
+msgstr "ஒலிக்கும் தொனியாக அமைக்கவும்"
 
 msgid "mp_nc_clear_cp"
-msgstr ""
+msgstr "இப்போதிலிருந்து எல்லா பாடல்களையும் அழிக்கவா?"
 
 msgid "mp_nc_delete_all"
-msgstr ""
+msgstr "பார்வையில் காட்டப்பட்டுள்ள அனைத்து பொருட்களையும் நீக்கவா?"
 
 msgid "mp_nc_delete_current_playlist"
-msgstr ""
+msgstr "சாதனத்திலிருந்து தற்போது பிளேலிச்ட்டைத் திறக்கவா?"
 
 msgid "mp_nc_delete_playlist"
-msgstr ""
+msgstr "சாதனத்திலிருந்து தேர்ந்தெடுக்கப்பட்ட பிளேலிச்ட்டை நீக்கவா?"
 
 msgid "mp_nc_delete_selected"
-msgstr ""
+msgstr "சாதனத்திலிருந்து தேர்ந்தெடுக்கப்பட்ட உருப்படியை நீக்கவா?"
 
 msgid "mp_nc_replace_bookmark%s"
 msgstr ""
+"ஏற்கனவே பயன்பாட்டில் உள்ள '%s' என்ற பெயர்.\n"
+" இருக்கும் புத்தகக்குறியை மாற்றவா?"
 
 msgid "mp_nc_replace_playlist%s"
-msgstr ""
+msgstr "பெயர் %s ஏற்கனவே பயன்பாட்டில் உள்ளன. இருக்கும் பிளேலிச்ட்டை மாற்றவா?"
 
 msgid "mp_ni_corrupt_playlist"
 msgstr ""
+"திறக்க முடியவில்லை.\n"
+" பிளேலிச்ட் சிதைந்தது."
 
 msgid "mp_ni_tracker_indexing"
 msgstr ""
+"புதிய மீடியா கோப்புகள் குறித்த தகவல்களை மீட்டெடுப்பது.\n"
+" மீதமுள்ள நேரம்: %s"
 
 msgid "mp_ni_unable_to_perform"
-msgstr ""
+msgstr "செயல்பாட்டைச் செய்ய முடியவில்லை"
 
 msgid "mp_ni_unsupported_video_codec"
 msgstr ""
+"மீடியா விளையாட முடியவில்லை.\n"
+" வீடியோ கோடெக் ஆதரிக்கப்படவில்லை."
 
 msgid "mp_ni_unsupported_videoreso"
 msgstr ""
+"மீடியா விளையாட முடியவில்லை.\n"
+" வீடியோ தீர்மானம் ஆதரிக்கப்படவில்லை."
 
 msgid "mp_pb_buffering"
-msgstr ""
+msgstr "இடையக"
 
 msgid "mp_pb_connecting"
-msgstr ""
+msgstr "இணைத்தல்"
 
 msgid "mp_ti_addradio"
-msgstr ""
+msgstr "ரேடியோ புக்மார்க்கு சேர்க்கவும்"
 
 msgid "mp_ti_addvideo"
-msgstr ""
+msgstr "வீடியோ புக்மார்க்கைச் சேர்க்கவும்"
 
 msgid "mp_ti_all_albums"
-msgstr ""
+msgstr "ஆல்பம்"
 
 msgid "mp_ti_all_songs"
-msgstr ""
+msgstr "பாடல்கள்"
 
 msgid "mp_ti_artists"
-msgstr ""
+msgstr "கலைஞர்கள்"
 
 msgid "mp_ti_edit_radio"
-msgstr ""
+msgstr "ரேடியோ புக்மார்க்கைத் திருத்து"
 
 msgid "mp_ti_edit_video"
-msgstr ""
+msgstr "வீடியோ புக்மார்க்கைத் திருத்து"
 
 msgid "mp_ti_genres"
-msgstr ""
+msgstr "வகைகள்"
 
 msgid "mp_ti_launch_first"
-msgstr ""
+msgstr "ஏவுதல்"
 
 msgid "mp_ti_launch_second"
-msgstr ""
+msgstr "மீடியா பிளேயர்"
 
 msgid "mp_ti_mafw_plugins"
-msgstr ""
+msgstr "செருகுநிரல்கள்"
 
 msgid "mp_ti_mp"
-msgstr ""
+msgstr "மீடியா பிளேயர்"
 
 msgid "mp_ti_name"
-msgstr ""
+msgstr "மீடியா பிளேயர்"
 
 msgid "mp_ti_now_playing"
-msgstr ""
+msgstr "இப்போது விளையாடுகிறது"
 
 msgid "mp_ti_playlist_automatic"
-msgstr ""
+msgstr "தானியங்கி பிளேலிச்ட்கள்"
 
 msgid "mp_ti_playlist_imported"
-msgstr ""
+msgstr "இறக்குமதி செய்யப்பட்டது"
 
 msgid "mp_ti_playlist_saved"
-msgstr ""
+msgstr "சேமிக்கப்பட்டது"
 
 msgid "mp_ti_playlists"
-msgstr ""
+msgstr "பிளேலிச்ட்கள்"
 
 msgid "mp_ti_radio_library"
-msgstr ""
+msgstr "இணைய வானொலி நிலையங்கள்"
 
 msgid "mp_ti_save_playlist"
-msgstr ""
+msgstr "பிளேலிச்ட்டை சேமிக்கவும்"
 
 msgid "mp_ti_server_root"
-msgstr ""
+msgstr "%s"
 
 msgid "mp_ti_server_root_no"
-msgstr ""
+msgstr "மீடியா சேவையகம்"
 
 msgid "mp_ti_server_sub"
-msgstr ""
+msgstr "%s"
 
 msgid "mp_ti_upnp_servers"
-msgstr ""
+msgstr "யுபிஎன்பி சேவையகங்கள்"
 
 msgid "mp_ti_videos_bookmarks"
-msgstr ""
+msgstr "வீடியோ புக்மார்க்குகள்"
 
 msgid "mp_ti_videos_cat"
-msgstr ""
+msgstr "வீடியோக்கள் - வகைகள்"
 
 msgid "mp_ti_videos_latest"
-msgstr ""
+msgstr "வீடியோக்கள் - அண்மைக் கால"
 
 msgid "mp_ti_videos_movies"
-msgstr ""
+msgstr "படங்கள்"
 
 msgid "mp_ti_videos_recorded"
-msgstr ""
+msgstr "சாதன கேமரா மூலம் பதிவு செய்யப்பட்டது"
